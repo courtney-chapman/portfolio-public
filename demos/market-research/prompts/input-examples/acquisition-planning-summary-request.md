@@ -1,0 +1,1 @@
+Generate a market research summary suitable for acquisition planning including vendor landscape, evaluation criteria, risks, and recommendations.

@@ -1,0 +1,1 @@
+Using the available information, create a market research strategy, evaluation framework, and recommended research approach.

@@ -1,0 +1,1 @@
+We need approximately 75 ruggedized laptops for field deployment. Current information: * Budget target approximately $180,000 * Delivery needed within 60 days * Federal contractor environment * Personnel travel frequently * Multiple peripherals required Identify missing requirements, acquisition risks, and information needed before market research begins.

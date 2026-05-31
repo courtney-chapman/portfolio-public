@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+
+# macOS and editor state
+.obsidian/workspace*.json
+.vscode/
+
+# Local previews and exports
+dist/
+build/
+.cache/
+*.log
+
+# Temporary publish artifacts
+notion-site/.export/
+notion-site/.preview/
