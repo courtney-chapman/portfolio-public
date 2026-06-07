@@ -13,6 +13,7 @@ The focus is not on a single task. The focus is on how requests, workflows, owne
 | File | Description |
 | --- | --- |
 | `operational_topology.svg` | Curated operational topology diagram for presentation and portfolio context |
+| `design_flow_diagram.svg` | Supporting flow diagram showing the progression from operational problem discovery through governance, validation, and adaptive feedback |
 
 ## Public Site
 

@@ -21,6 +21,7 @@ Public-facing demo pages and portfolio context are also published at [courtneype
 | Artifact | Purpose | Repo |
 | --- | --- | --- |
 | Operational Topology | High-level system map connecting workflows, accountability, visibility, and feedback loops | [topology/README.md](./topology/README.md) |
+| Workflow Governance Resource | Reusable execution, reasoning, and human-judgment boundary guidance for governed workflows | [demos/resources/README.md](./demos/resources/README.md) |
 
 ## Repository Approach
 
