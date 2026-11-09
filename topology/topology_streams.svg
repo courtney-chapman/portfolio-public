@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 376" width="100%" role="img" aria-labelledby="t d">
+<title id="t">How work moves across domains</title>
+<desc id="d">Work enters as a need, request, obligation, or gap and becomes a governed workflow with an owner. Five value streams hand off left to right. Opportunity to award: capture, proposal, award. Procure to pay: request, buy, receive and pay. Acquire to dispose, for government property: receive and tag, track and inventory, disposition; accountability transfers to property at receipt. Build to deliver: plan, build and test, deliver. Order to cash: acceptance, invoice, payment. Every stream feeds telemetry and evidence, with visibility, intelligence, and adaptive feedback across all of them. Accountability shifts as work crosses domains.</desc>
+<defs><marker id="ab" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#1D5FA6"/></marker><marker id="ag" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#6B7280"/></marker></defs>
+<rect width="680" height="376" fill="#FFFFFF"/>
+<g font-family="Helvetica, Arial, sans-serif">
+<rect x="20" y="14" width="640" height="30" fill="#D2E1F2"/>
+<text x="32" y="34" font-size="13" font-weight="700" fill="#0E2841">Work enters as a need, request, obligation, or gap</text>
+<text x="648" y="34" font-size="12" font-style="italic" fill="#1F2A37" text-anchor="end">Each becomes a governed workflow with an owner</text>
+<rect x="20" y="58" width="112" height="200" fill="#F4F6F9"/>
+<rect x="20" y="58" width="112" height="42" fill="#1D5FA6"/>
+<text x="30" y="76" font-size="13" font-weight="700" fill="#FFFFFF">Opportunity</text><text x="30" y="92" font-size="13" font-weight="700" fill="#FFFFFF">to Award</text>
+<text x="30" y="118" font-size="12" fill="#4B5563">BD, contracts</text>
+<rect x="28.5" y="130.5" width="95" height="27" fill="#FFFFFF" stroke="#CDD3DA"/>
+<text x="76.0" y="148" font-size="12" fill="#0E2841" text-anchor="middle">Capture</text>
+<path d="M76.0,158 V169" stroke="#6B7280" stroke-width="1.2" marker-end="url(#ag)"/>
+<rect x="28.5" y="170.5" width="95" height="27" fill="#FFFFFF" stroke="#CDD3DA"/>
+<text x="76.0" y="188" font-size="12" fill="#0E2841" text-anchor="middle">Proposal</text>
+<path d="M76.0,198 V209" stroke="#6B7280" stroke-width="1.2" marker-end="url(#ag)"/>
+<rect x="28.5" y="210.5" width="95" height="27" fill="#FFFFFF" stroke="#CDD3DA"/>
+<text x="76.0" y="228" font-size="12" fill="#0E2841" text-anchor="middle">Award</text>
+<path d="M134,184 H150" stroke="#1D5FA6" stroke-width="2" marker-end="url(#ab)"/>
+<path d="M76.0,258 V290" stroke="#6B7280" stroke-width="1.2" stroke-dasharray="4 3" marker-end="url(#ag)"/>
+<rect x="152" y="58" width="112" height="200" fill="#F4F6F9"/>
+<rect x="152" y="58" width="112" height="42" fill="#1D5FA6"/>
+<text x="162" y="76" font-size="13" font-weight="700" fill="#FFFFFF">Procure</text><text x="162" y="92" font-size="13" font-weight="700" fill="#FFFFFF">to Pay</text>
+<text x="162" y="118" font-size="12" fill="#4B5563">Procurement, AP</text>
+<rect x="160.5" y="130.5" width="95" height="27" fill="#FFFFFF" stroke="#CDD3DA"/>
+<text x="208.0" y="148" font-size="12" fill="#0E2841" text-anchor="middle">Request</text>
+<path d="M208.0,158 V169" stroke="#6B7280" stroke-width="1.2" marker-end="url(#ag)"/>
+<rect x="160.5" y="170.5" width="95" height="27" fill="#FFFFFF" stroke="#CDD3DA"/>
+<text x="208.0" y="188" font-size="12" fill="#0E2841" text-anchor="middle">Buy</text>
+<path d="M208.0,198 V209" stroke="#6B7280" stroke-width="1.2" marker-end="url(#ag)"/>
+<rect x="160.5" y="210.5" width="95" height="27" fill="#FFFFFF" stroke="#CDD3DA"/>
+<text x="208.0" y="228" font-size="12" fill="#0E2841" text-anchor="middle">Receive, pay</text>
+<path d="M266,184 H282" stroke="#1D5FA6" stroke-width="2" marker-end="url(#ab)"/>
+<path d="M208.0,258 V290" stroke="#6B7280" stroke-width="1.2" stroke-dasharray="4 3" marker-end="url(#ag)"/>
+<rect x="284" y="58" width="112" height="200" fill="#F4F6F9"/>
+<rect x="284" y="58" width="112" height="42" fill="#1D5FA6"/>
+<text x="294" y="76" font-size="13" font-weight="700" fill="#FFFFFF">Acquire</text><text x="294" y="92" font-size="13" font-weight="700" fill="#FFFFFF">to Dispose</text>
+<text x="294" y="118" font-size="12" fill="#4B5563">Gov. property</text>
+<rect x="292.5" y="130.5" width="95" height="27" fill="#FFFFFF" stroke="#CDD3DA"/>
+<text x="340.0" y="148" font-size="12" fill="#0E2841" text-anchor="middle">Receive and tag</text>
+<path d="M340.0,158 V169" stroke="#6B7280" stroke-width="1.2" marker-end="url(#ag)"/>
+<rect x="292.5" y="170.5" width="95" height="27" fill="#FFFFFF" stroke="#CDD3DA"/>
+<text x="340.0" y="188" font-size="12" fill="#0E2841" text-anchor="middle">Track, inventory</text>
+<path d="M340.0,198 V209" stroke="#6B7280" stroke-width="1.2" marker-end="url(#ag)"/>
+<rect x="292.5" y="210.5" width="95" height="27" fill="#FFFFFF" stroke="#CDD3DA"/>
+<text x="340.0" y="228" font-size="12" fill="#0E2841" text-anchor="middle">Disposition</text>
+<path d="M398,184 H414" stroke="#1D5FA6" stroke-width="2" marker-end="url(#ab)"/>
+<path d="M340.0,258 V290" stroke="#6B7280" stroke-width="1.2" stroke-dasharray="4 3" marker-end="url(#ag)"/>
+<rect x="416" y="58" width="112" height="200" fill="#F4F6F9"/>
+<rect x="416" y="58" width="112" height="42" fill="#1D5FA6"/>
+<text x="426" y="76" font-size="13" font-weight="700" fill="#FFFFFF">Build</text><text x="426" y="92" font-size="13" font-weight="700" fill="#FFFFFF">to Deliver</text>
+<text x="426" y="118" font-size="12" fill="#4B5563">Manufacturing</text>
+<rect x="424.5" y="130.5" width="95" height="27" fill="#FFFFFF" stroke="#CDD3DA"/>
+<text x="472.0" y="148" font-size="12" fill="#0E2841" text-anchor="middle">Plan</text>
+<path d="M472.0,158 V169" stroke="#6B7280" stroke-width="1.2" marker-end="url(#ag)"/>
+<rect x="424.5" y="170.5" width="95" height="27" fill="#FFFFFF" stroke="#CDD3DA"/>
+<text x="472.0" y="188" font-size="12" fill="#0E2841" text-anchor="middle">Build and test</text>
+<path d="M472.0,198 V209" stroke="#6B7280" stroke-width="1.2" marker-end="url(#ag)"/>
+<rect x="424.5" y="210.5" width="95" height="27" fill="#FFFFFF" stroke="#CDD3DA"/>
+<text x="472.0" y="228" font-size="12" fill="#0E2841" text-anchor="middle">Deliver</text>
+<path d="M530,184 H546" stroke="#1D5FA6" stroke-width="2" marker-end="url(#ab)"/>
+<path d="M472.0,258 V290" stroke="#6B7280" stroke-width="1.2" stroke-dasharray="4 3" marker-end="url(#ag)"/>
+<rect x="548" y="58" width="112" height="200" fill="#F4F6F9"/>
+<rect x="548" y="58" width="112" height="42" fill="#1D5FA6"/>
+<text x="558" y="76" font-size="13" font-weight="700" fill="#FFFFFF">Order</text><text x="558" y="92" font-size="13" font-weight="700" fill="#FFFFFF">to Cash</text>
+<text x="558" y="118" font-size="12" fill="#4B5563">Contracts, AR</text>
+<rect x="556.5" y="130.5" width="95" height="27" fill="#FFFFFF" stroke="#CDD3DA"/>
+<text x="604.0" y="148" font-size="12" fill="#0E2841" text-anchor="middle">Acceptance</text>
+<path d="M604.0,158 V169" stroke="#6B7280" stroke-width="1.2" marker-end="url(#ag)"/>
+<rect x="556.5" y="170.5" width="95" height="27" fill="#FFFFFF" stroke="#CDD3DA"/>
+<text x="604.0" y="188" font-size="12" fill="#0E2841" text-anchor="middle">Invoice</text>
+<path d="M604.0,198 V209" stroke="#6B7280" stroke-width="1.2" marker-end="url(#ag)"/>
+<rect x="556.5" y="210.5" width="95" height="27" fill="#FFFFFF" stroke="#CDD3DA"/>
+<text x="604.0" y="228" font-size="12" fill="#0E2841" text-anchor="middle">Payment</text>
+<path d="M604.0,258 V290" stroke="#6B7280" stroke-width="1.2" stroke-dasharray="4 3" marker-end="url(#ag)"/>
+<rect x="20" y="292" width="640" height="40" fill="#0E2841"/>
+<text x="32" y="317" font-size="14" font-weight="700" fill="#FFFFFF">Telemetry and evidence</text>
+<text x="648" y="317" font-size="12" fill="#D2E1F2" text-anchor="end">Visibility · Intelligence · Adaptive feedback</text>
+<text x="20" y="360" font-size="12" font-style="italic" fill="#4B5563">Accountability shifts as work crosses domains. Operational state stays visible the whole way.</text>
+</g></svg>

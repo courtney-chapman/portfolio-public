@@ -19,7 +19,7 @@ The workflow separates:
 
 ## Public Demo Page
 
-Public portfolio context for this demo is published at [courtneypetersonchapman.notion.site](https://courtneypetersonchapman.notion.site/).
+Public portfolio context for this demo is published on the [Demonstrations page](https://courtneypetersonchapman.notion.site/demo).
 
 ## What It Demonstrates
 
@@ -56,7 +56,7 @@ Validation and hardening
 | `reasoning-design/instructions.md` | instruction layers defining generation, validation, escalation, and evidence-handling behavior |
 | `reasoning-design/knowledgefile.md` | encoded evidence rules, drafting standards, and rejection-pattern guidance |
 | `prompts/output-examples/` | staged walkthrough outputs covering triage, interviews, evidence review, escalation, drafting, and validation |
-| `workflow/ltdd_workflow.svg` | workflow visual for presentation and walkthrough use |
+| `workflow/governed_reasoning_flow.svg` | three-gate reasoning visual: hold-and-route outcomes and guardrails for a property loss |
 
 ## Source Documents
 
