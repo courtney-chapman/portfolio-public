@@ -12,7 +12,7 @@ The goal is not to negotiate for the buyer. The goal is to structure preparation
 
 ## Public Demo Page
 
-Public portfolio context for this demo is published at [courtneypetersonchapman.notion.site](https://courtneypetersonchapman.notion.site/).
+Public portfolio context for this demo is published on the [Demonstrations page](https://courtneypetersonchapman.notion.site/demo).
 
 ## What It Demonstrates
 
