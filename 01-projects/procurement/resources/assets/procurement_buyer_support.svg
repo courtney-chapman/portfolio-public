@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 300" width="100%" role="img" aria-labelledby="t d">
+  <title id="t">How it helps buyers</title>
+  <desc id="d">Four buying stages, each with its support and result. Need and request: requirements, coding, and intake standards, giving cleaner requests. Sourcing: market research, commercial item review, and supplier comparison, giving more competition. Analysis and negotiation: negotiation prep, price analysis, and rationale drafting, giving stronger, compliant positions. Buying and administration: workflow governance, reconciliation, receiving, and reporting, giving faster, traceable execution.</desc>
+
+  <rect width="680" height="300" fill="#FFFFFF"/>
+
+  <g font-family="Helvetica, Arial, sans-serif">
+    <!-- Stage headers -->
+    <g fill="#E7EFF8">
+      <rect x="28" y="12" width="150" height="52"/>
+      <rect x="188" y="12" width="150" height="52"/>
+      <rect x="348" y="12" width="150" height="52"/>
+      <rect x="508" y="12" width="150" height="52"/>
+    </g>
+    <g fill="#1D5FA6">
+      <rect x="28" y="12" width="150" height="4"/>
+      <rect x="188" y="12" width="150" height="4"/>
+      <rect x="348" y="12" width="150" height="4"/>
+      <rect x="508" y="12" width="150" height="4"/>
+    </g>
+    <g font-size="13" font-weight="700" fill="#0E2841">
+      <text x="40" y="38">Need and</text><text x="40" y="54">request</text>
+      <text x="200" y="38">Sourcing</text>
+      <text x="360" y="38">Analysis and</text><text x="360" y="54">negotiation</text>
+      <text x="520" y="38">Buying and</text><text x="520" y="54">administration</text>
+    </g>
+
+    <!-- Support chips -->
+    <g fill="#FFFFFF" stroke="#CDD3DA">
+      <rect x="36.5" y="76.5" width="133" height="25"/><rect x="36.5" y="108.5" width="133" height="25"/><rect x="36.5" y="140.5" width="133" height="25"/>
+      <rect x="196.5" y="76.5" width="133" height="25"/><rect x="196.5" y="108.5" width="133" height="25"/><rect x="196.5" y="140.5" width="133" height="25"/>
+      <rect x="356.5" y="76.5" width="133" height="25"/><rect x="356.5" y="108.5" width="133" height="25"/><rect x="356.5" y="140.5" width="133" height="25"/>
+      <rect x="516.5" y="76.5" width="133" height="25"/><rect x="516.5" y="108.5" width="133" height="25"/><rect x="516.5" y="140.5" width="133" height="25"/><rect x="516.5" y="172.5" width="133" height="25"/>
+    </g>
+    <g font-size="12" fill="#1F2A37">
+      <text x="46" y="93">Requirements</text><text x="46" y="125">Coding</text><text x="46" y="157">Intake standards</text>
+      <text x="206" y="93">Market research</text><text x="206" y="125">Commercial item</text><text x="206" y="157">Supplier comparison</text>
+      <text x="366" y="93">Negotiation prep</text><text x="366" y="125">Price analysis</text><text x="366" y="157">Rationale drafting</text>
+      <text x="526" y="93">Workflow governance</text><text x="526" y="125">Reconciliation</text><text x="526" y="157">Receiving</text><text x="526" y="189">Reporting</text>
+    </g>
+
+    <!-- Results -->
+    <g fill="#0E2841">
+      <rect x="28" y="210" width="150" height="48"/>
+      <rect x="188" y="210" width="150" height="48"/>
+      <rect x="348" y="210" width="150" height="48"/>
+      <rect x="508" y="210" width="150" height="48"/>
+    </g>
+    <g font-size="12" font-weight="700" fill="#FFFFFF">
+      <text x="40" y="238">Cleaner requests</text>
+      <text x="200" y="238">More competition</text>
+      <text x="360" y="230">Stronger, compliant</text><text x="360" y="246">positions</text>
+      <text x="520" y="230">Faster, traceable</text><text x="520" y="246">execution</text>
+    </g>
+
+    <line x1="28" y1="272.5" x2="658" y2="272.5" stroke="#CDD3DA"/>
+    <text x="28" y="292" font-size="12" font-style="italic" fill="#4B5563">AI supports the buyer's judgment. It does not replace it.</text>
+  </g>
+</svg>

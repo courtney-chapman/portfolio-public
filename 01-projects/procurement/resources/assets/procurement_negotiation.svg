@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 300" width="100%" role="img" aria-labelledby="t d">
+  <title id="t">How AI helps buyers: from a request to guided questions and a negotiation position</title>
+  <desc id="d">Illustrative example. A request for 75 user licenses leads to guided questions covering internal requirements, vendor questions, and trade-offs to ask for. These lead to sample output, marked draft for human review: negotiation targets shown as a cost index where list price is 100, with acceptable at 80, target at 70 and stretch at 65.</desc>
+  <defs>
+    <marker id="ab" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="8" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#1D5FA6"/>
+    </marker>
+  </defs>
+
+  <rect width="680" height="300" fill="#FFFFFF"/>
+
+  <g font-family="Helvetica, Arial, sans-serif">
+
+    <!-- The request -->
+    <text x="20" y="24" font-size="12" font-weight="700" letter-spacing="0.96" fill="#1D5FA6">THE REQUEST</text>
+    <rect x="20" y="36" width="176" height="114" fill="#F1F3F5"/>
+    <g font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#0E2841">
+      <text x="34" y="64">“A program needs</text>
+      <text x="34" y="86">75 user licenses.</text>
+      <text x="34" y="108">What do I need</text>
+      <text x="34" y="130">to do next?”</text>
+    </g>
+    <text x="20" y="172" font-size="12" font-style="italic" fill="#4B5563">Illustrative example</text>
+
+    <text x="20" y="206" font-size="12" font-weight="700" letter-spacing="0.96" fill="#1D5FA6">WHAT I BUILD</text>
+    <g font-size="12" fill="#1F2A37">
+      <text x="20" y="226">Buyers start with better</text>
+      <text x="20" y="242">questions and a clear</text>
+      <text x="20" y="258">negotiating position.</text>
+    </g>
+
+    <!-- Guided questions -->
+    <rect x="220.5" y="36.5" width="215" height="247" fill="#FFFFFF" stroke="#CDD3DA" stroke-width="1"/>
+    <text x="234" y="58" font-size="12" font-weight="700" letter-spacing="0.96" fill="#4B5563">GUIDED QUESTIONS</text>
+    <g font-size="12" font-weight="700" fill="#1D5FA6">
+      <text x="234" y="84">Internal requirements</text>
+      <text x="234" y="142">Vendor questions</text>
+      <text x="234" y="216">Trade-offs to ask for</text>
+    </g>
+    <g font-size="12" fill="#1F2A37">
+      <text x="234" y="100">Full access, or read-only?</text>
+      <text x="234" y="116">Named or concurrent licenses?</text>
+      <text x="234" y="158">Can unused licenses be</text>
+      <text x="234" y="174">reassigned monthly?</text>
+      <text x="234" y="190">What is the renewal cap?</text>
+      <text x="234" y="232">Locked pricing, reassignment,</text>
+      <text x="234" y="248">onboarding licenses</text>
+    </g>
+
+    <!-- Sample output -->
+    <rect x="509.5" y="10.5" width="150" height="20" fill="#FFFFFF" stroke="#1D5FA6" stroke-width="1"/>
+    <text x="584.5" y="25" font-size="12" font-weight="700" fill="#1D5FA6" text-anchor="middle">Draft for human review</text>
+
+    <rect x="460.5" y="36.5" width="199" height="247" fill="#FFFFFF" stroke="#CDD3DA" stroke-width="1"/>
+    <text x="474" y="58" font-size="12" font-weight="700" letter-spacing="0.96" fill="#4B5563">SAMPLE OUTPUT</text>
+    <text x="474" y="84" font-size="13" font-weight="700" fill="#0E2841">Negotiation targets</text>
+    <g font-size="12" font-weight="700" fill="#4B5563">
+      <text x="474" y="106">Scenario</text>
+      <text x="548" y="106">Discount</text>
+      <text x="646" y="106" text-anchor="end">Index</text>
+    </g>
+    <rect x="466" y="158" width="188" height="22" fill="#E7EFF8"/>
+    <g stroke="#CDD3DA" stroke-width="1">
+      <path d="M474,114.5 H646 M474,136.5 H646 M474,158.5 H646 M474,180.5 H646 M474,202.5 H646"/>
+    </g>
+    <g font-size="12" fill="#1F2A37">
+      <text x="474" y="130">List price</text>
+      <text x="548" y="130">0%</text>
+      <text x="646" y="130" text-anchor="end">100</text>
+      <text x="474" y="152">Acceptable</text>
+      <text x="548" y="152">20%</text>
+      <text x="646" y="152" text-anchor="end">80</text>
+      <text x="548" y="196">35%</text>
+      <text x="474" y="196">Stretch</text>
+      <text x="646" y="196" text-anchor="end">65</text>
+    </g>
+    <g font-size="12" font-weight="700" fill="#0E2841">
+      <text x="474" y="174">Target</text>
+      <text x="548" y="174">30%</text>
+      <text x="646" y="174" text-anchor="end">70</text>
+    </g>
+    <text x="474" y="222" font-size="12" fill="#4B5563">Index: list price = 100</text>
+    <g font-size="12" fill="#1F2A37">
+      <text x="474" y="248"><tspan font-weight="700">Aim for Target</tspan> with SSO</text>
+      <text x="474" y="264">and a renewal cap included.</text>
+    </g>
+
+    <g stroke="#1D5FA6" stroke-width="1.5" fill="none" marker-end="url(#ab)">
+      <path d="M196,93 H218"/>
+      <path d="M436,160 H458"/>
+    </g>
+  </g>
+</svg>

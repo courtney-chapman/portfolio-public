@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 468" width="100%" role="img" aria-labelledby="t d">
+  <title id="t">The Foundation: recurring patterns across five eras of work</title>
+  <desc id="d">Five numbered eras: origins in small-business systems and personal tools; visibility and governance through a divestiture, novations and reporting automation; merger integration with migrations and reconciliation across functions; telemetry and adaptive operations with dashboards, crisis redesign and team leadership; and a converged, AI-native era building a startup from scratch with AI in daily work. Stacked strips show the patterns each era added: visibility; then lifecycle and automation; orchestration; telemetry, continuity, and operational sensing; and adaptive execution. The tools changed. The behavior didn't.</desc>
+
+  <rect width="680" height="468" fill="#FFFFFF"/>
+
+  <g font-family="Helvetica, Arial, sans-serif">
+
+    <!-- Eras -->
+    <line x1="30" y1="24.5" x2="660" y2="24.5" stroke="#B9CFE8" stroke-width="1"/>
+    <g fill="#0E2841">
+      <circle cx="30" cy="24" r="10"/>
+      <circle cx="160" cy="24" r="10"/>
+      <circle cx="290" cy="24" r="10"/>
+      <circle cx="420" cy="24" r="10"/>
+    </g>
+    <circle cx="550" cy="24" r="10" fill="#1D5FA6"/>
+    <g font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">
+      <text x="30" y="28">1</text>
+      <text x="160" y="28">2</text>
+      <text x="290" y="28">3</text>
+      <text x="420" y="28">4</text>
+      <text x="550" y="28">5</text>
+    </g>
+
+    <g font-size="13" font-weight="700" fill="#0E2841">
+      <text x="20" y="58">Origins</text>
+      <text x="150" y="58">Visibility and</text>
+      <text x="150" y="74">governance</text>
+      <text x="280" y="58">Merger</text>
+      <text x="280" y="74">integration</text>
+      <text x="410" y="58">Telemetry and</text>
+      <text x="410" y="74">adaptive ops</text>
+      <text x="540" y="58">Converged</text>
+      <text x="540" y="74">and AI-native</text>
+    </g>
+    <g font-size="12" fill="#1F2A37">
+      <text x="20" y="96">Small-business</text>
+      <text x="20" y="112">systems and</text>
+      <text x="20" y="128">personal tools</text>
+      <text x="150" y="96">Divestiture,</text>
+      <text x="150" y="112">novations, reporting</text>
+      <text x="150" y="128">automation</text>
+      <text x="280" y="96">Migrations and</text>
+      <text x="280" y="112">reconciliation</text>
+      <text x="280" y="128">across functions</text>
+      <text x="410" y="96">Dashboards, crisis</text>
+      <text x="410" y="112">redesign, team</text>
+      <text x="410" y="128">leadership</text>
+      <text x="540" y="96">A startup built</text>
+      <text x="540" y="112">from scratch; AI</text>
+      <text x="540" y="128">in daily work</text>
+    </g>
+
+    <!-- What each era added -->
+    <text x="20" y="168" font-size="12" font-weight="700" letter-spacing="0.96" fill="#4B5563">WHAT EACH ERA ADDED</text>
+
+    <!-- Patterns: light = carried forward, blue = new in that era -->
+    <rect x="20" y="392" width="120" height="24" fill="#1D5FA6"/>
+    <text x="28" y="408" font-size="12" fill="#FFFFFF">Visibility</text>
+    <rect x="150" y="392" width="120" height="24" fill="#E7EFF8"/>
+    <text x="158" y="408" font-size="12" fill="#1F2A37">Visibility</text>
+    <rect x="150" y="364" width="120" height="24" fill="#1D5FA6"/>
+    <text x="158" y="380" font-size="12" fill="#FFFFFF">Lifecycle</text>
+    <rect x="150" y="336" width="120" height="24" fill="#1D5FA6"/>
+    <text x="158" y="352" font-size="12" fill="#FFFFFF">Automation</text>
+    <rect x="280" y="392" width="120" height="24" fill="#E7EFF8"/>
+    <text x="288" y="408" font-size="12" fill="#1F2A37">Visibility</text>
+    <rect x="280" y="364" width="120" height="24" fill="#E7EFF8"/>
+    <text x="288" y="380" font-size="12" fill="#1F2A37">Lifecycle</text>
+    <rect x="280" y="336" width="120" height="24" fill="#E7EFF8"/>
+    <text x="288" y="352" font-size="12" fill="#1F2A37">Automation</text>
+    <rect x="280" y="308" width="120" height="24" fill="#1D5FA6"/>
+    <text x="288" y="324" font-size="12" fill="#FFFFFF">Orchestration</text>
+    <rect x="410" y="392" width="120" height="24" fill="#E7EFF8"/>
+    <text x="418" y="408" font-size="12" fill="#1F2A37">Visibility</text>
+    <rect x="410" y="364" width="120" height="24" fill="#E7EFF8"/>
+    <text x="418" y="380" font-size="12" fill="#1F2A37">Lifecycle</text>
+    <rect x="410" y="336" width="120" height="24" fill="#E7EFF8"/>
+    <text x="418" y="352" font-size="12" fill="#1F2A37">Automation</text>
+    <rect x="410" y="308" width="120" height="24" fill="#E7EFF8"/>
+    <text x="418" y="324" font-size="12" fill="#1F2A37">Orchestration</text>
+    <rect x="410" y="280" width="120" height="24" fill="#1D5FA6"/>
+    <text x="418" y="296" font-size="12" fill="#FFFFFF">Telemetry</text>
+    <rect x="410" y="252" width="120" height="24" fill="#1D5FA6"/>
+    <text x="418" y="268" font-size="12" fill="#FFFFFF">Continuity</text>
+    <rect x="410" y="224" width="120" height="24" fill="#1D5FA6"/>
+    <text x="418" y="240" font-size="12" fill="#FFFFFF">Sensing</text>
+    <rect x="540" y="392" width="120" height="24" fill="#E7EFF8"/>
+    <text x="548" y="408" font-size="12" fill="#1F2A37">Visibility</text>
+    <rect x="540" y="364" width="120" height="24" fill="#E7EFF8"/>
+    <text x="548" y="380" font-size="12" fill="#1F2A37">Lifecycle</text>
+    <rect x="540" y="336" width="120" height="24" fill="#E7EFF8"/>
+    <text x="548" y="352" font-size="12" fill="#1F2A37">Automation</text>
+    <rect x="540" y="308" width="120" height="24" fill="#E7EFF8"/>
+    <text x="548" y="324" font-size="12" fill="#1F2A37">Orchestration</text>
+    <rect x="540" y="280" width="120" height="24" fill="#E7EFF8"/>
+    <text x="548" y="296" font-size="12" fill="#1F2A37">Telemetry</text>
+    <rect x="540" y="252" width="120" height="24" fill="#E7EFF8"/>
+    <text x="548" y="268" font-size="12" fill="#1F2A37">Continuity</text>
+    <rect x="540" y="224" width="120" height="24" fill="#E7EFF8"/>
+    <text x="548" y="240" font-size="12" fill="#1F2A37">Sensing</text>
+    <rect x="540" y="196" width="120" height="24" fill="#1D5FA6"/>
+    <text x="548" y="212" font-size="12" fill="#FFFFFF">Adaptive execution</text>
+
+    <!-- Statement -->
+    <text x="20" y="452" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#0E2841">The tools changed. The behavior didn’t.</text>
+  </g>
+</svg>

@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 424" width="100%" role="img" aria-labelledby="t d">
+  <title id="t">Adaptive Government Property System: what I inherited, what I built, and what it delivered</title>
+  <desc id="d">Four aligned rows. An active audit with multiple corrective actions led to a policy architecture and an approved audit. Manual evidence led to evidence by design and audit-ready evidence at all times. Knowledge held by people led to role-based training that is repeatable. Fragmented ownership led to an integrated system and a self-improving, lower-cost model. Below, the adaptive control loop runs in five steps: signal, diagnosis, update, execution, evidence, and returns to signal.</desc>
+  <defs>
+    <marker id="ab" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="8" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#1D5FA6"/>
+    </marker>
+    <marker id="ag" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="8" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#6B7280"/>
+    </marker>
+  </defs>
+
+  <rect width="680" height="424" fill="#FFFFFF"/>
+
+  <g font-family="Helvetica, Arial, sans-serif">
+
+    <!-- Column labels -->
+    <g font-size="12" font-weight="700" letter-spacing="0.96">
+      <text x="20" y="24" fill="#4B5563">WHAT I INHERITED</text>
+      <text x="244" y="24" fill="#1D5FA6">WHAT I BUILT</text>
+      <text x="468" y="24" fill="#1D5FA6">WHAT IT DELIVERED</text>
+    </g>
+
+    <!-- Rows -->
+    <g fill="#F1F3F5">
+      <rect x="20" y="40" width="196" height="48"/>
+      <rect x="20" y="98" width="196" height="48"/>
+      <rect x="20" y="156" width="196" height="48"/>
+      <rect x="20" y="214" width="196" height="48"/>
+    </g>
+    <g fill="#E7EFF8">
+      <rect x="244" y="40" width="196" height="48"/>
+      <rect x="244" y="98" width="196" height="48"/>
+      <rect x="244" y="156" width="196" height="48"/>
+      <rect x="244" y="214" width="196" height="48"/>
+    </g>
+    <g fill="#0E2841">
+      <rect x="468" y="40" width="192" height="48"/>
+      <rect x="468" y="98" width="192" height="48"/>
+      <rect x="468" y="156" width="192" height="48"/>
+      <rect x="468" y="214" width="192" height="48"/>
+    </g>
+
+    <g font-size="13" font-weight="700">
+      <g fill="#1F2A37">
+        <text x="32" y="60">Active audit</text>
+        <text x="32" y="118">Manual evidence</text>
+        <text x="32" y="176">Knowledge in people</text>
+        <text x="32" y="234">Fragmented ownership</text>
+      </g>
+      <g fill="#0E2841">
+        <text x="256" y="60">Policy architecture</text>
+        <text x="256" y="118">Evidence by design</text>
+        <text x="256" y="176">Role-based training</text>
+        <text x="256" y="234">Integrated system</text>
+      </g>
+      <g fill="#FFFFFF">
+        <text x="480" y="60">Approved audit</text>
+        <text x="480" y="118">Audit-ready evidence</text>
+        <text x="480" y="176">Repeatable training</text>
+        <text x="480" y="234">Self-improving model</text>
+      </g>
+    </g>
+    <g font-size="12">
+      <g fill="#4B5563">
+        <text x="32" y="77">Multiple corrective actions</text>
+        <text x="32" y="135">Rebuilt under audit pressure</text>
+        <text x="32" y="193">No property training</text>
+        <text x="32" y="251">No working system</text>
+      </g>
+      <g fill="#1F2A37">
+        <text x="256" y="77">22 elements, FAR 52.245-1</text>
+        <text x="256" y="135">Generated as work is done</text>
+        <text x="256" y="193">AI-narrated, quiz-validated</text>
+        <text x="256" y="251">Records, workflow, AI support</text>
+      </g>
+      <g fill="#D2E1F2">
+        <text x="480" y="77">Corrective actions resolved</text>
+        <text x="480" y="135">Available at all times</text>
+        <text x="480" y="193">Survives personnel changes</text>
+        <text x="480" y="251">Lower cost to run</text>
+      </g>
+    </g>
+
+    <g stroke="#1D5FA6" stroke-width="1.5" fill="none" marker-end="url(#ab)">
+      <path d="M216,64 H242"/>
+      <path d="M216,122 H242"/>
+      <path d="M216,180 H242"/>
+      <path d="M216,238 H242"/>
+      <path d="M440,64 H466"/>
+      <path d="M440,122 H466"/>
+      <path d="M440,180 H466"/>
+      <path d="M440,238 H466"/>
+    </g>
+
+    <!-- Adaptive control loop -->
+    <line x1="20" y1="278.5" x2="660" y2="278.5" stroke="#CDD3DA" stroke-width="1"/>
+    <text x="20" y="300" font-size="12" font-weight="700" letter-spacing="0.96" fill="#1D5FA6">ADAPTIVE CONTROL LOOP</text>
+    <text x="200" y="300" font-size="12" font-style="italic" fill="#4B5563">Findings become system updates. Each cycle strengthens the system.</text>
+
+    <line x1="30" y1="320.5" x2="558" y2="320.5" stroke="#B9CFE8" stroke-width="1"/>
+    <g fill="#0E2841">
+      <circle cx="30" cy="320" r="10"/>
+      <circle cx="162" cy="320" r="10"/>
+      <circle cx="294" cy="320" r="10"/>
+      <circle cx="426" cy="320" r="10"/>
+      <circle cx="558" cy="320" r="10"/>
+    </g>
+    <g font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">
+      <text x="30" y="324">1</text>
+      <text x="162" y="324">2</text>
+      <text x="294" y="324">3</text>
+      <text x="426" y="324">4</text>
+      <text x="558" y="324">5</text>
+    </g>
+    <g font-size="13" font-weight="700" fill="#0E2841">
+      <text x="20" y="352">Signal</text>
+      <text x="152" y="352">Diagnosis</text>
+      <text x="284" y="352">Update</text>
+      <text x="416" y="352">Execution</text>
+      <text x="548" y="352">Evidence</text>
+    </g>
+    <g font-size="12" fill="#1F2A37">
+      <text x="20" y="370">Audit finding or</text>
+      <text x="20" y="386">program issue</text>
+      <text x="152" y="370">Root cause and</text>
+      <text x="152" y="386">control gap</text>
+      <text x="284" y="370">Fix deployed into</text>
+      <text x="284" y="386">the system</text>
+      <text x="416" y="370">Users follow the</text>
+      <text x="416" y="386">improved path</text>
+      <text x="548" y="370">Cleaner records at</text>
+      <text x="548" y="386">the next audit</text>
+    </g>
+
+    <path d="M558,394 V408 H10 V320 H17" stroke="#6B7280" stroke-width="1.5" stroke-dasharray="4 3" fill="none" marker-end="url(#ag)"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" width="100%" role="img" aria-labelledby="t d">
+<title id="t">Government property system thumbnail</title><desc id="d">Six stacked layers with a feedback loop.</desc>
+<rect x="0.5" y="0.5" width="319" height="179" fill="#F4F6F9" stroke="#CDD3DA"/>
+<rect x="70" y="16" width="180" height="16" fill="#E7EFF8"/><rect x="70" y="35" width="180" height="16" fill="#E7EFF8"/><rect x="70" y="54" width="180" height="16" fill="#D2E1F2"/><rect x="70" y="73" width="180" height="16" fill="#B9CFE8"/><rect x="70" y="92" width="180" height="16" fill="#1D5FA6"/><rect x="70" y="111" width="180" height="16" fill="#0E2841"/><path d="M70,24 H56 V119 H66" stroke="#6B7280" stroke-width="1.5" stroke-dasharray="3 2" fill="none"/><path d="M64,115 L69,119 L64,123" fill="#6B7280"/>
+<rect x="1" y="143" width="318" height="36" fill="#0E2841"/><text x="16" y="166" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Government Property</text>
+</svg>

@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 300" width="100%" role="img" aria-labelledby="t d">
+  <title id="t">LTDD guidance: from a question to guided next steps and an interview plan</title>
+  <desc id="d">Illustrative example. A question about a phone that overheated and may have been commingled leads to five guided next steps: safety first, open the investigation, freeze the evidence trail, interview, and package for review. These lead to an interview plan excerpt, marked draft for human review, covering the opening, discovery, timeline, and commingling questions.</desc>
+  <defs>
+    <marker id="ab" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="8" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#1D5FA6"/>
+    </marker>
+  </defs>
+
+  <rect width="680" height="300" fill="#FFFFFF"/>
+
+  <g font-family="Helvetica, Arial, sans-serif">
+
+    <!-- The question -->
+    <text x="20" y="24" font-size="12" font-weight="700" letter-spacing="0.96" fill="#1D5FA6">THE QUESTION</text>
+    <rect x="20" y="36" width="176" height="114" fill="#F1F3F5"/>
+    <g font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#0E2841">
+      <text x="34" y="64">“A phone overheated</text>
+      <text x="34" y="86">and may have been</text>
+      <text x="34" y="108">commingled. What</text>
+      <text x="34" y="130">are my next steps?”</text>
+    </g>
+    <text x="20" y="172" font-size="12" font-style="italic" fill="#4B5563">Illustrative example</text>
+
+    <text x="20" y="206" font-size="12" font-weight="700" letter-spacing="0.96" fill="#1D5FA6">WHAT I BUILD</text>
+    <g font-size="12" fill="#1F2A37">
+      <text x="20" y="226">Guidance that puts safety</text>
+      <text x="20" y="242">first and keeps evidence</text>
+      <text x="20" y="258">ready for review.</text>
+    </g>
+
+    <!-- Guided next steps -->
+    <rect x="220.5" y="36.5" width="215" height="247" fill="#FFFFFF" stroke="#CDD3DA" stroke-width="1"/>
+    <text x="234" y="58" font-size="12" font-weight="700" letter-spacing="0.96" fill="#4B5563">GUIDED NEXT STEPS</text>
+    <g font-size="12" font-weight="700" fill="#1D5FA6">
+      <text x="234" y="84">1 Safety first</text>
+      <text x="234" y="126">2 Open the investigation</text>
+      <text x="234" y="168">3 Freeze the evidence trail</text>
+      <text x="234" y="210">4 Interview</text>
+      <text x="234" y="252">5 Package for review</text>
+    </g>
+    <g font-size="12" fill="#1F2A37">
+      <text x="234" y="100">Stop use; preserve the device</text>
+      <text x="234" y="142">Record the discovery facts</text>
+      <text x="234" y="184">Records, custody, last inventory</text>
+      <text x="234" y="226">User, discoverer, custodians</text>
+      <text x="234" y="268">Photos, records, timeline</text>
+    </g>
+
+    <!-- Interview plan -->
+    <rect x="509.5" y="10.5" width="150" height="20" fill="#FFFFFF" stroke="#1D5FA6" stroke-width="1"/>
+    <text x="584.5" y="25" font-size="12" font-weight="700" fill="#1D5FA6" text-anchor="middle">Draft for human review</text>
+
+    <rect x="460.5" y="36.5" width="199" height="247" fill="#FFFFFF" stroke="#CDD3DA" stroke-width="1"/>
+    <text x="474" y="58" font-size="12" font-weight="700" letter-spacing="0.96" fill="#4B5563">INTERVIEW PLAN</text>
+    <g font-size="12" font-weight="700" fill="#0E2841">
+      <text x="474" y="84">Opening</text>
+      <text x="474" y="142">Discovery</text>
+      <text x="474" y="184">Timeline</text>
+      <text x="474" y="226">Commingling</text>
+    </g>
+    <g font-size="12" fill="#1F2A37">
+      <text x="474" y="100">“Tell me what you saw, and</text>
+      <text x="474" y="116">what you were told.”</text>
+      <text x="474" y="158">When, where, and by whom?</text>
+      <text x="474" y="200">Last known normal condition?</text>
+      <text x="474" y="242">Which device was it, and how</text>
+      <text x="474" y="258">can you confirm that?</text>
+    </g>
+
+    <g stroke="#1D5FA6" stroke-width="1.5" fill="none" marker-end="url(#ab)">
+      <path d="M196,93 H218"/>
+      <path d="M436,160 H458"/>
+    </g>
+  </g>
+</svg>

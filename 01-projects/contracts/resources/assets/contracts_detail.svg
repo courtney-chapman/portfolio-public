@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 372" width="100%" role="img" aria-labelledby="t d">
+<title id="t">One contract in detail</title>
+<desc id="d">Illustrative. A contract opens into four epics: execution, subcontracts, government property, and an ECP. Each holds tasks and subtasks marked done, in progress, or open. Dashed links connect related work across epics.</desc>
+<rect x="0.5" y="0.5" width="679" height="371" fill="#F4F6F9" stroke="#CDD3DA"/>
+<g font-family="Helvetica, Arial, sans-serif">
+<rect x="16.5" y="16.5" width="647" height="314" fill="#FFFFFF" stroke="#CDD3DA"/>
+<line x1="17" y1="47.5" x2="663" y2="47.5" stroke="#CDD3DA"/>
+<text x="27" y="36" font-size="12" font-weight="700" letter-spacing="0.96" fill="#4B5563">ONE CONTRACT · DETAIL</text>
+<rect x="270" y="60" width="140" height="30" fill="#0E2841"/>
+<text x="340" y="80" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">Contract</text>
+<g stroke="#6B7280" stroke-width="1.2" fill="none">
+<path d="M340,90 V102"/>
+<path d="M103.0,102 H577.0"/>
+<path d="M103.0,102 V112"/>
+<path d="M261.0,102 V112"/>
+<path d="M419.0,102 V112"/>
+<path d="M577.0,102 V112"/>
+</g>
+<rect x="30" y="112" width="146" height="38" fill="#E7EFF8"/>
+<text x="38" y="127" font-size="12" font-weight="700" letter-spacing="0.96" fill="#1D5FA6">EPIC</text>
+<rect x="159.5" y="118.5" width="9" height="9" fill="#1D5FA6" stroke="#1D5FA6"/>
+<text x="38" y="143" font-size="12" font-weight="700" fill="#0E2841">Execution</text>
+<path d="M36,150 V181 H42" stroke="#6B7280" stroke-width="1.2" fill="none"/>
+<rect x="42.5" y="162.5" width="133" height="37" fill="#FFFFFF" stroke="#CDD3DA"/>
+<text x="50" y="177" font-size="12" font-weight="700" letter-spacing="0.96" fill="#6B7280">TASK</text>
+<rect x="159.5" y="168.5" width="9" height="9" fill="#1D5FA6" stroke="#1D5FA6"/>
+<text x="50" y="193" font-size="12" fill="#0E2841">Deliverable</text>
+<path d="M48,200 V217 H56" stroke="#9AA3AE" fill="none"/>
+<rect x="56.5" y="206.5" width="119" height="21" fill="#F4F6F9" stroke="#CDD3DA"/>
+<text x="64" y="221" font-size="12" fill="#4B5563">Draft</text>
+<rect x="160.5" y="212.5" width="9" height="9" fill="#0E2841" stroke="#0E2841"/>
+<path d="M48,200 V243 H56" stroke="#9AA3AE" fill="none"/>
+<rect x="56.5" y="232.5" width="119" height="21" fill="#F4F6F9" stroke="#CDD3DA"/>
+<text x="64" y="247" font-size="12" fill="#4B5563">Customer review</text>
+<rect x="160.5" y="238.5" width="9" height="9" fill="#FFFFFF" stroke="#6B7280"/>
+<path d="M36,150 V281 H42" stroke="#6B7280" stroke-width="1.2" fill="none"/>
+<rect x="42.5" y="262.5" width="133" height="37" fill="#FFFFFF" stroke="#CDD3DA"/>
+<text x="50" y="277" font-size="12" font-weight="700" letter-spacing="0.96" fill="#6B7280">TASK</text>
+<rect x="159.5" y="268.5" width="9" height="9" fill="#0E2841" stroke="#0E2841"/>
+<text x="50" y="293" font-size="12" fill="#0E2841">Status report</text>
+<rect x="188" y="112" width="146" height="38" fill="#E7EFF8"/>
+<text x="196" y="127" font-size="12" font-weight="700" letter-spacing="0.96" fill="#1D5FA6">EPIC</text>
+<rect x="317.5" y="118.5" width="9" height="9" fill="#1D5FA6" stroke="#1D5FA6"/>
+<text x="196" y="143" font-size="12" font-weight="700" fill="#0E2841">Subcontracts</text>
+<path d="M194,150 V181 H200" stroke="#6B7280" stroke-width="1.2" fill="none"/>
+<rect x="200.5" y="162.5" width="133" height="37" fill="#FFFFFF" stroke="#CDD3DA"/>
+<text x="208" y="177" font-size="12" font-weight="700" letter-spacing="0.96" fill="#6B7280">TASK</text>
+<rect x="317.5" y="168.5" width="9" height="9" fill="#0E2841" stroke="#0E2841"/>
+<text x="208" y="193" font-size="12" fill="#0E2841">Subcontract</text>
+<path d="M206,200 V217 H214" stroke="#9AA3AE" fill="none"/>
+<rect x="214.5" y="206.5" width="119" height="21" fill="#F4F6F9" stroke="#CDD3DA"/>
+<text x="222" y="221" font-size="12" fill="#4B5563">Purchase order</text>
+<rect x="318.5" y="212.5" width="9" height="9" fill="#1D5FA6" stroke="#1D5FA6"/>
+<path d="M194,150 V255 H200" stroke="#6B7280" stroke-width="1.2" fill="none"/>
+<rect x="200.5" y="236.5" width="133" height="37" fill="#FFFFFF" stroke="#CDD3DA"/>
+<text x="208" y="251" font-size="12" font-weight="700" letter-spacing="0.96" fill="#6B7280">TASK</text>
+<rect x="317.5" y="242.5" width="9" height="9" fill="#0E2841" stroke="#0E2841"/>
+<text x="208" y="267" font-size="12" fill="#0E2841">NDA</text>
+<rect x="346" y="112" width="146" height="38" fill="#E7EFF8"/>
+<text x="354" y="127" font-size="12" font-weight="700" letter-spacing="0.96" fill="#1D5FA6">EPIC</text>
+<rect x="475.5" y="118.5" width="9" height="9" fill="#1D5FA6" stroke="#1D5FA6"/>
+<text x="354" y="143" font-size="12" font-weight="700" fill="#0E2841">Property</text>
+<path d="M352,150 V181 H358" stroke="#6B7280" stroke-width="1.2" fill="none"/>
+<rect x="358.5" y="162.5" width="133" height="37" fill="#FFFFFF" stroke="#CDD3DA"/>
+<text x="366" y="177" font-size="12" font-weight="700" letter-spacing="0.96" fill="#6B7280">TASK</text>
+<rect x="475.5" y="168.5" width="9" height="9" fill="#0E2841" stroke="#0E2841"/>
+<text x="366" y="193" font-size="12" fill="#0E2841">Receiving</text>
+<path d="M364,200 V217 H372" stroke="#9AA3AE" fill="none"/>
+<rect x="372.5" y="206.5" width="119" height="21" fill="#F4F6F9" stroke="#CDD3DA"/>
+<text x="380" y="221" font-size="12" fill="#4B5563">Tagging</text>
+<rect x="476.5" y="212.5" width="9" height="9" fill="#1D5FA6" stroke="#1D5FA6"/>
+<path d="M352,150 V255 H358" stroke="#6B7280" stroke-width="1.2" fill="none"/>
+<rect x="358.5" y="236.5" width="133" height="37" fill="#FFFFFF" stroke="#CDD3DA"/>
+<text x="366" y="251" font-size="12" font-weight="700" letter-spacing="0.96" fill="#6B7280">TASK</text>
+<rect x="475.5" y="242.5" width="9" height="9" fill="#FFFFFF" stroke="#6B7280"/>
+<text x="366" y="267" font-size="12" fill="#0E2841">Inventory</text>
+<rect x="504" y="112" width="146" height="38" fill="#E7EFF8"/>
+<text x="512" y="127" font-size="12" font-weight="700" letter-spacing="0.96" fill="#1D5FA6">EPIC</text>
+<rect x="633.5" y="118.5" width="9" height="9" fill="#FFFFFF" stroke="#6B7280"/>
+<text x="512" y="143" font-size="12" font-weight="700" fill="#0E2841">ECP</text>
+<path d="M510,150 V181 H516" stroke="#6B7280" stroke-width="1.2" fill="none"/>
+<rect x="516.5" y="162.5" width="133" height="37" fill="#FFFFFF" stroke="#CDD3DA"/>
+<text x="524" y="177" font-size="12" font-weight="700" letter-spacing="0.96" fill="#6B7280">TASK</text>
+<rect x="633.5" y="168.5" width="9" height="9" fill="#1D5FA6" stroke="#1D5FA6"/>
+<text x="524" y="193" font-size="12" fill="#0E2841">Pricing</text>
+<path d="M522,200 V217 H530" stroke="#9AA3AE" fill="none"/>
+<rect x="530.5" y="206.5" width="119" height="21" fill="#F4F6F9" stroke="#CDD3DA"/>
+<text x="538" y="221" font-size="12" fill="#4B5563">Approval</text>
+<rect x="634.5" y="212.5" width="9" height="9" fill="#FFFFFF" stroke="#6B7280"/>
+<path d="M510,150 V255 H516" stroke="#6B7280" stroke-width="1.2" fill="none"/>
+<rect x="516.5" y="236.5" width="133" height="37" fill="#FFFFFF" stroke="#CDD3DA"/>
+<text x="524" y="251" font-size="12" font-weight="700" letter-spacing="0.96" fill="#6B7280">TASK</text>
+<rect x="633.5" y="242.5" width="9" height="9" fill="#FFFFFF" stroke="#6B7280"/>
+<text x="524" y="267" font-size="12" fill="#0E2841">Proposal</text>
+<path d="M176,188 H200" stroke="#1D5FA6" stroke-width="1.5" stroke-dasharray="5 3" fill="none"/>
+<path d="M334,188 H358" stroke="#1D5FA6" stroke-width="1.5" stroke-dasharray="5 3" fill="none"/>
+<path d="M492,188 H516" stroke="#1D5FA6" stroke-width="1.5" stroke-dasharray="5 3" fill="none"/>
+<path d="M334,255 H358" stroke="#1D5FA6" stroke-width="1.5" stroke-dasharray="5 3" fill="none"/>
+<rect x="20.5" y="349.5" width="9" height="9" fill="#0E2841" stroke="#0E2841"/>
+<text x="35" y="358" font-size="12" fill="#4B5563">Done</text>
+<rect x="81.5" y="349.5" width="9" height="9" fill="#1D5FA6" stroke="#1D5FA6"/>
+<text x="96" y="358" font-size="12" fill="#4B5563">In progress</text>
+<rect x="191.5" y="349.5" width="9" height="9" fill="#FFFFFF" stroke="#6B7280"/>
+<text x="206" y="358" font-size="12" fill="#4B5563">Open</text>
+<line x1="252" y1="354" x2="272" y2="354" stroke="#6B7280" stroke-width="1.2"/><text x="278" y="358" font-size="12" fill="#4B5563">Hierarchy</text>
+<line x1="348" y1="354" x2="368" y2="354" stroke="#1D5FA6" stroke-width="1.5" stroke-dasharray="5 3" fill="none"/><text x="374" y="358" font-size="12" fill="#4B5563">Linked</text>
+<text x="664" y="358" font-size="12" font-weight="700" fill="#0E2841" text-anchor="end">Illustrative</text>
+</g></svg>

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 326" width="100%" role="img" aria-labelledby="t d">
+  <title id="t">Audit-ready results: a draft relief letter beside likely questions and responses</title>
+  <desc id="d">Illustrative example, marked draft for human review. Left: an excerpt of a draft letter requesting relief of stewardship responsibility under FAR 52.245-1, with contract information, a description of a government-furnished phone damaged by battery overheating, dates with placeholders, and the investigation. Right: likely reviewer questions with recommended responses, and the points still open.</desc>
+
+  <rect width="680" height="326" fill="#FFFFFF"/>
+
+  <g font-family="Helvetica, Arial, sans-serif">
+
+    <text x="20" y="25" font-size="12" font-style="italic" fill="#4B5563">Illustrative example</text>
+    <rect x="509.5" y="10.5" width="150" height="20" fill="#FFFFFF" stroke="#1D5FA6" stroke-width="1"/>
+    <text x="584.5" y="25" font-size="12" font-weight="700" fill="#1D5FA6" text-anchor="middle">Draft for human review</text>
+
+    <!-- Draft letter excerpt -->
+    <rect x="20.5" y="40.5" width="289" height="269" fill="#FFFFFF" stroke="#CDD3DA" stroke-width="1"/>
+    <text x="34" y="62" font-size="12" font-weight="700" letter-spacing="0.96" fill="#4B5563">DRAFT LETTER · EXCERPT</text>
+    <g font-size="13" font-weight="700" fill="#0E2841">
+      <text x="34" y="88">1 Contract information</text>
+      <text x="34" y="146">2 Description</text>
+      <text x="34" y="220">3 Dates</text>
+      <text x="34" y="278">4 Investigation</text>
+    </g>
+    <g font-size="12" fill="#1F2A37">
+      <text x="34" y="104">Request for relief of stewardship</text>
+      <text x="34" y="120">responsibility under FAR 52.245-1.</text>
+      <text x="34" y="162">One government-furnished phone</text>
+      <text x="34" y="178">shows signs of battery overheating.</text>
+      <text x="34" y="194">It remains physically accounted for.</text>
+      <text x="34" y="236">Estimated window: [DATE RANGE].</text>
+      <text x="34" y="252">Last verified: [INVENTORY DATE].</text>
+    </g>
+    <text x="34" y="294" font-size="12" fill="#4B5563">Interviews and records review…</text>
+
+    <!-- Likely questions -->
+    <rect x="330.5" y="40.5" width="329" height="269" fill="#FFFFFF" stroke="#CDD3DA" stroke-width="1"/>
+    <text x="344" y="62" font-size="12" font-weight="700" letter-spacing="0.96" fill="#4B5563">LIKELY QUESTIONS</text>
+    <g font-size="12" font-weight="700" fill="#4B5563">
+      <text x="344" y="88">Question</text>
+      <text x="474" y="88">Recommended response</text>
+    </g>
+    <g stroke="#CDD3DA" stroke-width="1">
+      <path d="M344,96.5 H646 M344,152.5 H646 M344,208.5 H646 M344,248.5 H646"/>
+    </g>
+    <g font-size="12" font-weight="700" fill="#1F2A37">
+      <text x="344" y="114">Is this damage,</text>
+      <text x="344" y="130">not loss?</text>
+      <text x="344" y="170">Where is the</text>
+      <text x="344" y="186">phone now?</text>
+      <text x="344" y="226">What charger</text>
+      <text x="344" y="242">was used?</text>
+    </g>
+    <g font-size="12" fill="#1F2A37">
+      <text x="474" y="114">“Yes. The asset is accounted</text>
+      <text x="474" y="130">for, secured, and reported</text>
+      <text x="474" y="146">as damage.”</text>
+      <text x="474" y="170">“In the secured property</text>
+      <text x="474" y="186">holding cabinet, with</text>
+      <text x="474" y="202">limited access.”</text>
+      <text x="474" y="226">“The government-issued cable</text>
+      <text x="474" y="242">that came with the phone.”</text>
+    </g>
+    <rect x="344" y="260" width="302" height="36" fill="#F1F3F5"/>
+    <text x="354" y="282" font-size="12" fill="#1F2A37"><tspan font-weight="700">Still open:</tspan> exact cause and custody moves</text>
+  </g>
+</svg>

@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 420" width="100%" role="img" aria-labelledby="t d">
+<title id="t">Lifecycle board</title>
+<desc id="d">Illustrative board with one column per stage. Pre-solicitation: B&amp;P 1042, an opportunity with NDAs linked to a sub and a teaming partner and a teaming agreement, and B&amp;P 1057, a white paper linked to the opportunity. Solicitation: Solicitation 3318, a proposal linked to OCI review, pricing, data rights, and sub quotes, and Solicitation 3324, an ECP linked to pricing and Contract 7781. Award and execution: Contract 7781 linked to subcontracts, government property, deliverables, and key personnel, and PO 4410, a subcontract linked to the sub NDA and Contract 7781. Resolution: Contract 6602 in closeout, linked to property disposition, final deliverables, and sub closeouts. Each card shows an owner and progress.</desc>
+<rect x="0.5" y="0.5" width="679" height="419" fill="#F4F6F9" stroke="#CDD3DA"/>
+<g font-family="Helvetica, Arial, sans-serif">
+<rect x="16" y="16" width="156" height="30" fill="#E7EFF8"/>
+<text x="26" y="36" font-size="12" font-weight="700" fill="#0E2841">Pre-solicitation</text>
+<text x="162" y="36" font-size="12" font-weight="700" fill="#0E2841" text-anchor="end">2</text>
+<rect x="16.5" y="56.5" width="155" height="157" fill="#FFFFFF" stroke="#CDD3DA"/>
+<rect x="26" y="66" width="117" height="18" fill="#E7EFF8"/>
+<text x="32" y="79" font-size="12" font-weight="700" letter-spacing="0.96" fill="#1D5FA6">OPPORTUNITY</text>
+<text x="26" y="102" font-size="13" font-weight="700" fill="#0E2841">B&amp;P 1042</text>
+<text x="26" y="122" font-size="12" font-weight="700" fill="#6B7280">Linked</text>
+<path d="M28,130 V136 H36" stroke="#1D5FA6" fill="none" stroke-width="1.2"/>
+<text x="40" y="140" font-size="12" fill="#1F2A37">NDA · Sub</text>
+<path d="M28,148 V154 H36" stroke="#1D5FA6" fill="none" stroke-width="1.2"/>
+<text x="40" y="158" font-size="12" fill="#1F2A37">NDA · Teaming partner</text>
+<path d="M28,166 V172 H36" stroke="#1D5FA6" fill="none" stroke-width="1.2"/>
+<text x="40" y="176" font-size="12" fill="#1F2A37">Teaming agreement</text>
+<circle cx="34" cy="194" r="7" fill="#D2E1F2" stroke="#1D5FA6"/>
+<rect x="48" y="191" width="76" height="6" fill="#E5E9EE"/>
+<rect x="48" y="191" width="23" height="6" fill="#1D5FA6"/>
+<text x="162" y="198" font-size="12" fill="#4B5563" text-anchor="end">30%</text>
+<rect x="16.5" y="224.5" width="155" height="121" fill="#FFFFFF" stroke="#CDD3DA"/>
+<rect x="26" y="234" width="117" height="18" fill="#E7EFF8"/>
+<text x="32" y="247" font-size="12" font-weight="700" letter-spacing="0.96" fill="#1D5FA6">WHITE PAPER</text>
+<text x="26" y="270" font-size="13" font-weight="700" fill="#0E2841">B&amp;P 1057</text>
+<text x="26" y="290" font-size="12" font-weight="700" fill="#6B7280">Linked</text>
+<path d="M28,298 V304 H36" stroke="#1D5FA6" fill="none" stroke-width="1.2"/>
+<text x="40" y="308" font-size="12" fill="#1F2A37">Opportunity</text>
+<circle cx="34" cy="326" r="7" fill="#D2E1F2" stroke="#1D5FA6"/>
+<rect x="48" y="323" width="76" height="6" fill="#E5E9EE"/>
+<rect x="48" y="323" width="46" height="6" fill="#1D5FA6"/>
+<text x="162" y="330" font-size="12" fill="#4B5563" text-anchor="end">60%</text>
+<rect x="180" y="16" width="156" height="30" fill="#B9CFE8"/>
+<text x="190" y="36" font-size="12" font-weight="700" fill="#0E2841">Solicitation</text>
+<text x="326" y="36" font-size="12" font-weight="700" fill="#0E2841" text-anchor="end">2</text>
+<rect x="180.5" y="56.5" width="155" height="175" fill="#FFFFFF" stroke="#CDD3DA"/>
+<rect x="190" y="66" width="89" height="18" fill="#E7EFF8"/>
+<text x="196" y="79" font-size="12" font-weight="700" letter-spacing="0.96" fill="#1D5FA6">PROPOSAL</text>
+<text x="190" y="102" font-size="13" font-weight="700" fill="#0E2841">Solicitation 3318</text>
+<text x="190" y="122" font-size="12" font-weight="700" fill="#6B7280">Linked</text>
+<path d="M192,130 V136 H200" stroke="#1D5FA6" fill="none" stroke-width="1.2"/>
+<text x="204" y="140" font-size="12" fill="#1F2A37">OCI review</text>
+<path d="M192,148 V154 H200" stroke="#1D5FA6" fill="none" stroke-width="1.2"/>
+<text x="204" y="158" font-size="12" fill="#1F2A37">Pricing</text>
+<path d="M192,166 V172 H200" stroke="#1D5FA6" fill="none" stroke-width="1.2"/>
+<text x="204" y="176" font-size="12" fill="#1F2A37">Data rights</text>
+<path d="M192,184 V190 H200" stroke="#1D5FA6" fill="none" stroke-width="1.2"/>
+<text x="204" y="194" font-size="12" fill="#1F2A37">Sub quotes</text>
+<circle cx="198" cy="212" r="7" fill="#D2E1F2" stroke="#1D5FA6"/>
+<rect x="212" y="209" width="76" height="6" fill="#E5E9EE"/>
+<rect x="212" y="209" width="46" height="6" fill="#1D5FA6"/>
+<text x="326" y="216" font-size="12" fill="#4B5563" text-anchor="end">60%</text>
+<rect x="180.5" y="242.5" width="155" height="139" fill="#FFFFFF" stroke="#CDD3DA"/>
+<rect x="190" y="252" width="42" height="18" fill="#E7EFF8"/>
+<text x="196" y="265" font-size="12" font-weight="700" letter-spacing="0.96" fill="#1D5FA6">ECP</text>
+<text x="190" y="288" font-size="13" font-weight="700" fill="#0E2841">Solicitation 3324</text>
+<text x="190" y="308" font-size="12" font-weight="700" fill="#6B7280">Linked</text>
+<path d="M192,316 V322 H200" stroke="#1D5FA6" fill="none" stroke-width="1.2"/>
+<text x="204" y="326" font-size="12" fill="#1F2A37">Pricing</text>
+<path d="M192,334 V340 H200" stroke="#1D5FA6" fill="none" stroke-width="1.2"/>
+<text x="204" y="344" font-size="12" fill="#1F2A37">Contract 7781</text>
+<circle cx="198" cy="362" r="7" fill="#D2E1F2" stroke="#1D5FA6"/>
+<rect x="212" y="359" width="76" height="6" fill="#E5E9EE"/>
+<rect x="212" y="359" width="15" height="6" fill="#1D5FA6"/>
+<text x="326" y="366" font-size="12" fill="#4B5563" text-anchor="end">20%</text>
+<rect x="344" y="16" width="156" height="30" fill="#1D5FA6"/>
+<text x="354" y="36" font-size="12" font-weight="700" fill="#FFFFFF">Award &amp; Execution</text>
+<text x="490" y="36" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="end">2</text>
+<rect x="344.5" y="56.5" width="155" height="175" fill="#FFFFFF" stroke="#CDD3DA"/>
+<rect x="354" y="66" width="89" height="18" fill="#E7EFF8"/>
+<text x="360" y="79" font-size="12" font-weight="700" letter-spacing="0.96" fill="#1D5FA6">CONTRACT</text>
+<text x="354" y="102" font-size="13" font-weight="700" fill="#0E2841">Contract 7781</text>
+<text x="354" y="122" font-size="12" font-weight="700" fill="#6B7280">Linked</text>
+<path d="M356,130 V136 H364" stroke="#1D5FA6" fill="none" stroke-width="1.2"/>
+<text x="368" y="140" font-size="12" fill="#1F2A37">Subcontracts (3)</text>
+<path d="M356,148 V154 H364" stroke="#1D5FA6" fill="none" stroke-width="1.2"/>
+<text x="368" y="158" font-size="12" fill="#1F2A37">Government property</text>
+<path d="M356,166 V172 H364" stroke="#1D5FA6" fill="none" stroke-width="1.2"/>
+<text x="368" y="176" font-size="12" fill="#1F2A37">Deliverables (5)</text>
+<path d="M356,184 V190 H364" stroke="#1D5FA6" fill="none" stroke-width="1.2"/>
+<text x="368" y="194" font-size="12" fill="#1F2A37">Key personnel</text>
+<circle cx="362" cy="212" r="7" fill="#D2E1F2" stroke="#1D5FA6"/>
+<rect x="376" y="209" width="76" height="6" fill="#E5E9EE"/>
+<rect x="376" y="209" width="53" height="6" fill="#1D5FA6"/>
+<text x="490" y="216" font-size="12" fill="#4B5563" text-anchor="end">70%</text>
+<rect x="344.5" y="242.5" width="155" height="139" fill="#FFFFFF" stroke="#CDD3DA"/>
+<rect x="354" y="252" width="117" height="18" fill="#E7EFF8"/>
+<text x="360" y="265" font-size="12" font-weight="700" letter-spacing="0.96" fill="#1D5FA6">SUBCONTRACT</text>
+<text x="354" y="288" font-size="13" font-weight="700" fill="#0E2841">PO 4410</text>
+<text x="354" y="308" font-size="12" font-weight="700" fill="#6B7280">Linked</text>
+<path d="M356,316 V322 H364" stroke="#1D5FA6" fill="none" stroke-width="1.2"/>
+<text x="368" y="326" font-size="12" fill="#1F2A37">NDA · Sub</text>
+<path d="M356,334 V340 H364" stroke="#1D5FA6" fill="none" stroke-width="1.2"/>
+<text x="368" y="344" font-size="12" fill="#1F2A37">Contract 7781</text>
+<circle cx="362" cy="362" r="7" fill="#D2E1F2" stroke="#1D5FA6"/>
+<rect x="376" y="359" width="76" height="6" fill="#E5E9EE"/>
+<rect x="376" y="359" width="68" height="6" fill="#1D5FA6"/>
+<text x="490" y="366" font-size="12" fill="#4B5563" text-anchor="end">90%</text>
+<rect x="508" y="16" width="156" height="30" fill="#0E2841"/>
+<text x="518" y="36" font-size="12" font-weight="700" fill="#FFFFFF">Resolution</text>
+<text x="654" y="36" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="end">1</text>
+<rect x="508.5" y="56.5" width="155" height="157" fill="#FFFFFF" stroke="#CDD3DA"/>
+<rect x="518" y="66" width="89" height="18" fill="#E7EFF8"/>
+<text x="524" y="79" font-size="12" font-weight="700" letter-spacing="0.96" fill="#1D5FA6">CLOSEOUT</text>
+<text x="518" y="102" font-size="13" font-weight="700" fill="#0E2841">Contract 6602</text>
+<text x="518" y="122" font-size="12" font-weight="700" fill="#6B7280">Linked</text>
+<path d="M520,130 V136 H528" stroke="#1D5FA6" fill="none" stroke-width="1.2"/>
+<text x="532" y="140" font-size="12" fill="#1F2A37">Property disposition</text>
+<path d="M520,148 V154 H528" stroke="#1D5FA6" fill="none" stroke-width="1.2"/>
+<text x="532" y="158" font-size="12" fill="#1F2A37">Final deliverables</text>
+<path d="M520,166 V172 H528" stroke="#1D5FA6" fill="none" stroke-width="1.2"/>
+<text x="532" y="176" font-size="12" fill="#1F2A37">Sub closeouts</text>
+<circle cx="526" cy="194" r="7" fill="#D2E1F2" stroke="#1D5FA6"/>
+<rect x="540" y="191" width="76" height="6" fill="#E5E9EE"/>
+<rect x="540" y="191" width="30" height="6" fill="#1D5FA6"/>
+<text x="654" y="198" font-size="12" fill="#4B5563" text-anchor="end">40%</text>
+<text x="664" y="408" font-size="12" font-weight="700" fill="#0E2841" text-anchor="end">Illustrative</text>
+<text x="16" y="408" font-size="12" fill="#4B5563">Each card links to the records around it.</text>
+</g></svg>
