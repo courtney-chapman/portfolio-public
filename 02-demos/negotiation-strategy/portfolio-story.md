@@ -3,6 +3,7 @@
 # Negotiation Strategy
 
 - **GitHub workflow:** [Negotiation strategy workflow and examples](README.md)
+- **Related plugin:** [Software/SaaS Negotiation Strategy](https://github.com/courtney-chapman/tools-public/blob/main/plugins/software-saas-negotiation-strategy/skills/software-saas-negotiation-strategy/SKILL.md)
 - **Purpose:** Develop governed execution strategy
 - **Workflow type:** Preparatory
 

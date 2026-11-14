@@ -3,6 +3,7 @@
 # Market Research
 
 - **GitHub workflow:** [Market research workflow and examples](README.md)
+- **Related plugin:** [Procurement Market Research](https://github.com/courtney-chapman/tools-public/blob/main/plugins/procurement-market-research/skills/procurement-market-research/SKILL.md)
 - **Purpose:** Structure fragmented public information
 - **Workflow type:** Research
 
