@@ -18,9 +18,9 @@ This work spans Fortune 500 enterprises, high-growth startups, small businesses,
 
 | Project | What it addresses | Explore here |
 | --- | --- | --- |
-| **Adaptive Government Property System** | A compliance operating system for audit-sensitive property work, with feedback that hardens the process over time. | [Project story](01-projects/property/README.md) · [Case brief](01-projects/property/case-brief.pdf) |
-| **Procurement Operating Model** | Intake-to-receipt buying that is visible, measurable, and easier for buyers to navigate. | [Project story](01-projects/procurement/README.md) · [Case brief](01-projects/procurement/case-brief.pdf) |
-| **Contract Lifecycle Orchestration** | Connected contract work with traceable actions, obligations, and handoffs. | [Project story](01-projects/contracts/README.md) · [Case brief](01-projects/contracts/case-brief.pdf) |
+| **Adaptive Government Property System** | A compliance operating system for audit-sensitive property work, with feedback that hardens the process over time. | [Project story](01-projects/property/README.md) · [Case brief](https://raw.githubusercontent.com/courtney-chapman/portfolio-public/main/01-projects/property/case-brief.pdf) |
+| **Procurement Operating Model** | Intake-to-receipt buying that is visible, measurable, and easier for buyers to navigate. | [Project story](01-projects/procurement/README.md) · [Case brief](https://raw.githubusercontent.com/courtney-chapman/portfolio-public/main/01-projects/procurement/case-brief.pdf) |
+| **Contract Lifecycle Orchestration** | Connected contract work with traceable actions, obligations, and handoffs. | [Project story](01-projects/contracts/README.md) · [Case brief](https://raw.githubusercontent.com/courtney-chapman/portfolio-public/main/01-projects/contracts/case-brief.pdf) |
 
 [Browse all projects](01-projects/README.md).
 
@@ -48,7 +48,7 @@ Explore the [public Codex plugin collection](https://github.com/courtney-chapman
 
 ## Visual artifacts and background
 
-- [How I Work slide deck](01-projects/How%20I%20Work.pdf): how I diagnose, connect, and build.
+- [How I Work slide deck](https://raw.githubusercontent.com/courtney-chapman/portfolio-public/main/01-projects/How%20I%20Work.pdf): how I diagnose, connect, and build.
 - [The Foundation](04-foundation/README.md): the recurring patterns behind this work.
 - [Visual portfolio on Notion](https://courtneypetersonchapman.notion.site/).
 - [LinkedIn](https://www.linkedin.com/in/courtney-peterson-chapman/).
