@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 410" width="100%" role="img" aria-labelledby="t d">
+  <title id="t">What the system tracks: one record, opened up</title>
+  <desc id="d">An illustrative OCI review ticket for Contract A, with callouts. Lifecycle state shows where the work stands: intake, review, approve, done. Owner and approvals show who acts next. Forms and fields are set by the ticket type. Telemetry exports go to dashboards and other teams' tools. Parent and child links connect it to the general contract, its subtasks, and the customer, opportunity, and line of business. The communication thread captures chat replies, tagged email, and comments.</desc>
+  <defs>
+    <marker id="ab" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="8" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#1D5FA6"/>
+    </marker>
+  </defs>
+
+  <rect width="680" height="410" fill="#FFFFFF"/>
+
+  <g font-family="Helvetica, Arial, sans-serif">
+    <text x="20" y="24" font-size="12" font-weight="700" letter-spacing="0.96" fill="#1D5FA6">ONE RECORD, OPENED UP</text>
+
+    <!-- The record -->
+    <rect x="210.5" y="40.5" width="259" height="335" fill="#FFFFFF" stroke="#CDD3DA"/>
+    <rect x="211" y="41" width="258" height="26" fill="#F4F6F9"/>
+    <text x="222" y="58" font-size="12" font-weight="700" letter-spacing="0.96" fill="#4B5563">OCI REVIEW</text>
+    <text x="458" y="58" font-size="12" fill="#4B5563" text-anchor="end">Illustrative</text>
+    <text x="222" y="90" font-size="14" font-weight="700" fill="#0E2841">OCI review for Contract A</text>
+
+    <!-- State -->
+    <rect x="222" y="102" width="56" height="20" fill="#D2E1F2"/>
+    <rect x="282" y="102" width="56" height="20" fill="#0E2841"/>
+    <rect x="342.5" y="102.5" width="55" height="19" fill="#FFFFFF" stroke="#CDD3DA"/>
+    <rect x="402.5" y="102.5" width="55" height="19" fill="#FFFFFF" stroke="#CDD3DA"/>
+    <g font-size="12" text-anchor="middle">
+      <text x="250" y="116" fill="#0E2841">Intake</text>
+      <text x="310" y="116" fill="#FFFFFF" font-weight="700">Review</text>
+      <text x="370" y="116" fill="#4B5563">Approve</text>
+      <text x="430" y="116" fill="#4B5563">Done</text>
+    </g>
+
+    <!-- Owner, approvals, fields -->
+    <g font-size="12" fill="#4B5563">
+      <text x="222" y="148">Owner</text>
+      <text x="222" y="168">Approver</text>
+      <text x="222" y="196">Due date</text>
+      <text x="222" y="216">Form fields</text>
+    </g>
+    <g fill="#CDD3DA">
+      <rect x="300" y="142" width="110" height="6"/>
+      <rect x="300" y="162" width="90" height="6"/>
+      <rect x="300" y="190" width="70" height="6"/>
+      <rect x="300" y="210" width="140" height="6"/>
+      <rect x="300" y="222" width="120" height="6"/>
+    </g>
+
+    <!-- Links -->
+    <line x1="222" y1="240.5" x2="458" y2="240.5" stroke="#E5E9EE"/>
+    <rect x="222.75" y="252.75" width="10.5" height="10.5" fill="#FFFFFF" stroke="#0E2841" stroke-width="1.5"/>
+    <text x="240" y="263" font-size="12" fill="#1F2A37"><tspan font-weight="700" fill="#0E2841">Parent:</tspan> General contract A</text>
+    <text x="240" y="281" font-size="12" fill="#1F2A37"><tspan font-weight="700" fill="#0E2841">Children:</tspan> 3 subtasks</text>
+    <text x="240" y="299" font-size="12" fill="#1F2A37"><tspan font-weight="700" fill="#0E2841">Linked:</tspan> customer, opportunity, LOB</text>
+
+    <!-- Thread -->
+    <line x1="222" y1="312.5" x2="458" y2="312.5" stroke="#E5E9EE"/>
+    <g fill="#E7EFF8">
+      <rect x="222" y="322" width="150" height="14"/>
+      <rect x="252" y="340" width="150" height="14"/>
+      <rect x="222" y="358" width="130" height="14"/>
+    </g>
+    <g font-size="12" fill="#1F2A37">
+      <text x="228" y="333">Chat reply</text>
+      <text x="258" y="351">Tagged email</text>
+      <text x="228" y="369">Comment</text>
+    </g>
+
+    <!-- Left callouts -->
+    <g stroke="#1D5FA6" stroke-width="1">
+      <path d="M180,112 H218"/>
+      <path d="M180,158 H218"/>
+      <path d="M180,206 H218"/>
+    </g>
+    <g fill="#1D5FA6"><circle cx="218" cy="112" r="2.5"/><circle cx="218" cy="158" r="2.5"/><circle cx="218" cy="206" r="2.5"/></g>
+    <g font-size="13" font-weight="700" fill="#0E2841">
+      <text x="26" y="110">Lifecycle state</text>
+      <text x="26" y="156">Owner and approvals</text>
+      <text x="26" y="204">Forms and fields</text>
+    </g>
+    <g font-size="12" fill="#4B5563">
+      <text x="26" y="126">Where the work stands</text>
+      <text x="26" y="172">Who acts next</text>
+      <text x="26" y="220">Set by ticket type</text>
+    </g>
+
+    <!-- Right callouts -->
+    <path d="M470,90 H494" stroke="#1D5FA6" stroke-width="1.5" marker-end="url(#ab)"/>
+    <g stroke="#1D5FA6" stroke-width="1">
+      <path d="M462,272 H500"/>
+      <path d="M462,346 H500"/>
+    </g>
+    <g fill="#1D5FA6"><circle cx="462" cy="272" r="2.5"/><circle cx="462" cy="346" r="2.5"/></g>
+    <g font-size="13" font-weight="700" fill="#0E2841">
+      <text x="504" y="88">Telemetry</text>
+      <text x="504" y="270">Parent and child links</text>
+      <text x="504" y="344">Communication thread</text>
+    </g>
+    <g font-size="12" fill="#4B5563">
+      <text x="504" y="104">Exports to dashboards</text>
+      <text x="504" y="120">and others' tools</text>
+      <text x="504" y="286">Plus customer, opportunity,</text>
+      <text x="504" y="302">line of business</text>
+      <text x="504" y="360">Chat, tagged email,</text>
+      <text x="504" y="376">comments, captured</text>
+    </g>
+
+    <text x="20" y="400" font-size="12" font-style="italic" fill="#4B5563">Every ticket carries its own state, owner, links, and conversation.</text>
+  </g>
+</svg>

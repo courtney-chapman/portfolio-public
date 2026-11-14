@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 132" width="100%" role="img" aria-labelledby="t d">
+  <title id="t">Design principles</title>
+  <desc id="d">Three principles. Systems over memory: controls live in workflows, not in someone's head. Evidence by design: doing the work correctly produces the proof. Failures harden the system: findings and repeat errors become improvements.</desc>
+
+  <rect width="680" height="132" fill="#FFFFFF"/>
+
+  <g font-family="Helvetica, Arial, sans-serif">
+    <g fill="#E7EFF8">
+      <rect x="28" y="12" width="200" height="108"/>
+      <rect x="244" y="12" width="200" height="108"/>
+      <rect x="460" y="12" width="200" height="108"/>
+    </g>
+    <g fill="#1D5FA6">
+      <rect x="28" y="12" width="200" height="4"/>
+      <rect x="244" y="12" width="200" height="4"/>
+      <rect x="460" y="12" width="200" height="4"/>
+    </g>
+
+    <g font-size="12" font-weight="700" letter-spacing="0.96" fill="#1D5FA6">
+      <text x="42" y="40">01</text>
+      <text x="258" y="40">02</text>
+      <text x="474" y="40">03</text>
+    </g>
+    <g font-size="13" font-weight="700" fill="#0E2841">
+      <text x="42" y="64">Systems over memory</text>
+      <text x="258" y="64">Evidence by design</text>
+      <text x="474" y="64">Failures harden the system</text>
+    </g>
+    <g font-size="12" fill="#4B5563">
+      <text x="42" y="88">Controls live in workflows,</text>
+      <text x="42" y="104">not in someone's head.</text>
+      <text x="258" y="88">Doing the work correctly</text>
+      <text x="258" y="104">produces the proof.</text>
+      <text x="474" y="88">Findings and repeat errors</text>
+      <text x="474" y="104">become improvements.</text>
+    </g>
+  </g>
+</svg>

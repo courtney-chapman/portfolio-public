@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 392" width="100%" role="img" aria-labelledby="t d">
+  <title id="t">How the buying process matured across four phases</title>
+  <desc id="d">A maturity grid with four phases as columns (Before, Control, Scale, Intelligence) and four buying stages as rows. Need and request: no formal intake, a standardized intake form, workflow-based requests, then requirement translation and coding. Sourcing: no documented research, not yet structured, a supplier network and competitive bidding, then market research and supplier comparison. Analysis and negotiation: no structured analysis, not yet structured, standard templates, then price analysis and negotiation prep. Buying and administration: credit card spend with no process, an approval workflow and audit evidence, catalogs, receiving and reconciliation, then predictive and compliance analysis. The path I led: from email, cards and individual follow-up, to workflow-driven intake and approvals, to one platform to buy, receive and reconcile, to guided research and negotiation prep.</desc>
+
+  <rect width="680" height="392" fill="#FFFFFF"/>
+
+  <g font-family="Helvetica, Arial, sans-serif">
+
+    <!-- Phase header: stepped blocks, taller and darker = more mature -->
+    <text x="20" y="72" font-size="12" font-weight="700" letter-spacing="0.96" fill="#4B5563">PHASE</text>
+    <rect x="142" y="46" width="122" height="34" fill="#D2E1F2"/>
+    <rect x="274" y="36" width="122" height="44" fill="#B9CFE8"/>
+    <rect x="406" y="26" width="122" height="54" fill="#1D5FA6"/>
+    <rect x="538" y="16" width="122" height="64" fill="#0E2841"/>
+    <g font-size="13" font-weight="700">
+      <text x="152" y="68" fill="#0E2841">Before</text>
+      <text x="284" y="68" fill="#0E2841">Control</text>
+      <text x="416" y="68" fill="#FFFFFF">Scale</text>
+      <text x="548" y="68" fill="#FFFFFF">Intelligence</text>
+    </g>
+
+    <!-- Row rules -->
+    <g stroke="#CDD3DA" stroke-width="1">
+      <path d="M20,88.5 H132 M142,88.5 H264 M274,88.5 H396 M406,88.5 H528 M538,88.5 H660"/>
+      <path d="M20,138.5 H132 M142,138.5 H264 M274,138.5 H396 M406,138.5 H528 M538,138.5 H660"/>
+      <path d="M20,188.5 H132 M142,188.5 H264 M274,188.5 H396 M406,188.5 H528 M538,188.5 H660"/>
+      <path d="M20,238.5 H132 M142,238.5 H264 M274,238.5 H396 M406,238.5 H528 M538,238.5 H660"/>
+      <path d="M20,288.5 H132 M142,288.5 H264 M274,288.5 H396 M406,288.5 H528 M538,288.5 H660"/>
+    </g>
+
+    <!-- Row labels: buying stages -->
+    <g font-size="13" font-weight="700" fill="#0E2841">
+      <text x="20" y="108">Need and</text>
+      <text x="20" y="124">request</text>
+      <text x="20" y="158">Sourcing</text>
+      <text x="20" y="208">Analysis and</text>
+      <text x="20" y="224">negotiation</text>
+      <text x="20" y="258">Buying and</text>
+      <text x="20" y="274">administration</text>
+    </g>
+
+    <!-- Cells -->
+    <g font-size="12" fill="#1F2A37">
+      <text x="142" y="108">No formal intake</text>
+      <text x="274" y="108">Standardized</text>
+      <text x="274" y="124">intake form</text>
+      <text x="406" y="108">Workflow-based</text>
+      <text x="406" y="124">requests</text>
+      <text x="538" y="108">Requirement</text>
+      <text x="538" y="124">translation, coding</text>
+
+      <text x="142" y="158">No documented</text>
+      <text x="142" y="174">research</text>
+      <text x="406" y="158">Supplier network,</text>
+      <text x="406" y="174">competitive bidding</text>
+      <text x="538" y="158">Market research,</text>
+      <text x="538" y="174">supplier comparison</text>
+
+      <text x="142" y="208">No structured</text>
+      <text x="142" y="224">analysis</text>
+      <text x="406" y="208">Standard</text>
+      <text x="406" y="224">templates</text>
+      <text x="538" y="208">Price analysis,</text>
+      <text x="538" y="224">negotiation prep</text>
+
+      <text x="142" y="258">Credit card spend,</text>
+      <text x="142" y="274">no process</text>
+      <text x="274" y="258">Approval workflow</text>
+      <text x="274" y="274">and audit evidence</text>
+      <text x="406" y="258">Catalogs, receiving,</text>
+      <text x="406" y="274">reconciliation</text>
+      <text x="538" y="258">Predictive and</text>
+      <text x="538" y="274">compliance analysis</text>
+    </g>
+    <g font-size="12" fill="#6B7280">
+      <text x="274" y="158">Not yet structured</text>
+      <text x="274" y="208">Not yet structured</text>
+    </g>
+
+    <!-- The path I led -->
+    <g font-size="13" font-weight="700" fill="#1D5FA6">
+      <text x="20" y="317">The path</text>
+      <text x="20" y="333">I led</text>
+    </g>
+    <line x1="149" y1="312" x2="545" y2="312" stroke="#1D5FA6" stroke-width="2"/>
+    <circle cx="149" cy="312" r="7" fill="#FFFFFF" stroke="#1D5FA6" stroke-width="2"/>
+    <g fill="#1D5FA6">
+      <circle cx="281" cy="312" r="7"/>
+      <circle cx="413" cy="312" r="7"/>
+      <circle cx="545" cy="312" r="7"/>
+    </g>
+    <g font-size="12" font-weight="700" letter-spacing="0.96">
+      <text x="142" y="340" fill="#4B5563">STARTING POINT</text>
+      <text x="274" y="340" fill="#1D5FA6">DELIVERED</text>
+      <text x="406" y="340" fill="#1D5FA6">DELIVERED</text>
+      <text x="538" y="340" fill="#1D5FA6">TOOLS BUILT</text>
+    </g>
+    <g font-size="12" fill="#1F2A37">
+      <text x="142" y="360">Email, cards, and</text>
+      <text x="142" y="376">individual follow-up</text>
+      <text x="274" y="360">Workflow-driven</text>
+      <text x="274" y="376">intake, approvals</text>
+      <text x="406" y="360">One platform to buy,</text>
+      <text x="406" y="376">receive, reconcile</text>
+      <text x="538" y="360">Guided research</text>
+      <text x="538" y="376">and negotiation prep</text>
+    </g>
+  </g>
+</svg>

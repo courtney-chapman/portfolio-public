@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 348" width="100%" role="img" aria-labelledby="t d">
+  <title id="t">How the system works: six layers, from governance at the base to improvement at the top</title>
+  <desc id="d">Six stacked layers. Governance at the base sets policy, lifecycle controls, and accountability, built on a 22-element policy framework. Execution handles routing, approvals, receiving, and evidence, built on an evidence architecture. Data and visibility covers records, reporting, exceptions, and dashboards. Enablement provides role-based training and guidance, built on a narrated, quiz-validated training infrastructure. Intelligence provides AI decision support and drafting under AI governance with a fixed source order. Improvement at the top feeds findings back into the rules at the base.</desc>
+  <defs>
+    <marker id="ag" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="8" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#6B7280"/>
+    </marker>
+  </defs>
+
+  <rect width="680" height="348" fill="#FFFFFF"/>
+
+  <g font-family="Helvetica, Arial, sans-serif">
+    <g font-size="12" font-weight="700" letter-spacing="0.96">
+      <text x="28" y="26" fill="#1D5FA6">THE LAYERS</text>
+      <text x="466" y="26" fill="#4B5563">HOW IT IS BUILT</text>
+    </g>
+
+    <!-- Layers, top to bottom -->
+    <rect x="28" y="40" width="412" height="40" fill="#E7EFF8"/>
+    <rect x="28" y="86" width="412" height="40" fill="#E7EFF8"/>
+    <rect x="28" y="132" width="412" height="40" fill="#D2E1F2"/>
+    <rect x="28" y="178" width="412" height="40" fill="#B9CFE8"/>
+    <rect x="28" y="224" width="412" height="40" fill="#1D5FA6"/>
+    <rect x="28" y="270" width="412" height="40" fill="#0E2841"/>
+
+    <g font-size="13" font-weight="700">
+      <text x="42" y="65" fill="#0E2841">Improvement</text>
+      <text x="42" y="111" fill="#0E2841">Intelligence</text>
+      <text x="42" y="157" fill="#0E2841">Enablement</text>
+      <text x="42" y="203" fill="#0E2841">Data &amp; visibility</text>
+      <text x="42" y="249" fill="#FFFFFF">Execution</text>
+      <text x="42" y="295" fill="#FFFFFF">Governance</text>
+    </g>
+    <g font-size="12">
+      <text x="186" y="65" fill="#1F2A37">Feedback, hardening, policy versions</text>
+      <text x="186" y="111" fill="#1F2A37">AI decision support and drafting</text>
+      <text x="186" y="157" fill="#1F2A37">Role-based training and guidance</text>
+      <text x="186" y="203" fill="#1F2A37">Records, reporting, exceptions, dashboards</text>
+      <text x="186" y="249" fill="#D2E1F2">Routing, approvals, receiving, evidence</text>
+      <text x="186" y="295" fill="#D2E1F2">Policy, lifecycle controls, accountability</text>
+    </g>
+
+    <!-- Improvement feeds back into the rules -->
+    <path d="M28,60 H14 V290 H25" stroke="#6B7280" stroke-width="1.5" stroke-dasharray="4 3" fill="none" marker-end="url(#ag)"/>
+
+    <!-- Implementation tags -->
+    <g stroke="#CDD3DA" stroke-width="1">
+      <path d="M440,106 H466 M440,152 H466 M440,244 H466 M440,290 H466"/>
+    </g>
+    <g fill="#FFFFFF" stroke="#CDD3DA" stroke-width="1">
+      <rect x="466.5" y="86.5" width="193" height="39"/>
+      <rect x="466.5" y="132.5" width="193" height="39"/>
+      <rect x="466.5" y="224.5" width="193" height="39"/>
+      <rect x="466.5" y="270.5" width="193" height="39"/>
+    </g>
+    <g font-size="12" font-weight="700" fill="#0E2841">
+      <text x="478" y="103">AI governance</text>
+      <text x="478" y="149">Training infrastructure</text>
+      <text x="478" y="241">Evidence architecture</text>
+      <text x="478" y="287">Policy framework</text>
+    </g>
+    <g font-size="12" fill="#4B5563">
+      <text x="478" y="118">Fixed source order, escalation</text>
+      <text x="478" y="164">Narrated, quiz-validated</text>
+      <text x="478" y="256">Proof made as work happens</text>
+      <text x="478" y="302">22 elements, FAR 52.245-1</text>
+    </g>
+
+    <line x1="28" y1="320.5" x2="660" y2="320.5" stroke="#CDD3DA"/>
+    <text x="28" y="340" font-size="12" font-style="italic" fill="#4B5563">Findings at the top update the rules at the base.</text>
+  </g>
+</svg>

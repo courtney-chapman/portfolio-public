@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 160" width="100%" role="img" aria-labelledby="t d">
+  <title id="t">Operational topology preview: one hardening loop</title>
+  <desc id="d">A small six-step loop in which the last step returns to the first along a dashed hardening loop. Beside it: operational failures become system updates.</desc>
+  <defs>
+    <marker id="ab" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="8" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#1D5FA6"/>
+    </marker>
+  </defs>
+
+  <rect width="680" height="160" fill="#FFFFFF"/>
+
+  <g font-family="Helvetica, Arial, sans-serif">
+
+    <!-- Mini loop -->
+    <g stroke="#1D5FA6" stroke-width="1.5" fill="none" marker-end="url(#ab)">
+      <path d="M80,50 H118"/>
+      <path d="M140,50 H178"/>
+      <path d="M200,50 H214 V110 H202"/>
+      <path d="M178,110 H142"/>
+      <path d="M118,110 H84"/>
+    </g>
+    <path d="M58,110 H40 V50 H57" stroke="#1D5FA6" stroke-width="2.5" stroke-dasharray="5 4" fill="none" marker-end="url(#ab)"/>
+
+    <g fill="#0E2841">
+      <circle cx="70" cy="50" r="10"/>
+      <circle cx="130" cy="50" r="10"/>
+      <circle cx="190" cy="50" r="10"/>
+      <circle cx="190" cy="110" r="10"/>
+      <circle cx="130" cy="110" r="10"/>
+    </g>
+    <circle cx="70" cy="110" r="12" fill="#1D5FA6"/>
+    <g font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">
+      <text x="70" y="54">1</text>
+      <text x="130" y="54">2</text>
+      <text x="190" y="54">3</text>
+      <text x="190" y="114">4</text>
+      <text x="130" y="114">5</text>
+      <text x="70" y="114">6</text>
+    </g>
+
+    <!-- The claim -->
+    <g font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#0E2841">
+      <text x="270" y="74">Operational failures become</text>
+      <text x="270" y="102">system updates.</text>
+    </g>
+  </g>
+</svg>

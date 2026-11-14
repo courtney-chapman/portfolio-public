@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 592" width="100%" role="img" aria-labelledby="t d">
+<title id="t">Earlier examples: proof of the patterns</title>
+<desc id="d">Four earlier examples. Enterprise reporting and telemetry, as enterprise analytics lead across six functions: dashboards, reconciliation, exception reports, and self-service analytics cut reporting from days to minutes, with dozens of recurring dashboards and designs adopted by other functions. Merger integration across multiple mergers and a divestiture: workflows, novations, entity changes, and migrations brought thousands of contracts and supplier records into one lineage. Workflow governance for distributed support teams: ticketing, escalation, shared calendars, and procedures handled thousands of tickets a year with high closure and hundreds of procedures documented. Automation and modernization across functions: VBA, ETL, RPA, triggers, and data normalization freed thousands of hours and replaced fragmented manual processes with reusable frameworks.</desc>
+<rect width="680" height="592" fill="#FFFFFF"/>
+<g font-family="Helvetica, Arial, sans-serif">
+<rect x="20.5" y="12.5" width="311" height="275" fill="#FFF" stroke="#CDD3DA"/>
+<rect x="20" y="12" width="312" height="36" fill="#0E2841"/><text x="34" y="35" font-size="14" font-weight="700" fill="#FFF">Enterprise reporting and telemetry</text>
+<text x="34" y="68" font-size="12" font-style="italic" fill="#4B5563">Enterprise analytics lead across six functions</text>
+<rect x="34" y="78" width="284" height="60" fill="#F4F6F9"/>
+<text x="46" y="100" font-size="12" font-weight="700" fill="#4B5563">Before</text><rect x="98" y="89" width="200" height="14" fill="#B9CFE8"/><text x="304" y="100" font-size="12" fill="#4B5563" text-anchor="end"></text>
+<text x="46" y="124" font-size="12" font-weight="700" fill="#0E2841">After</text><rect x="98" y="113" width="10" height="14" fill="#1D5FA6"/>
+<text x="114" y="124" font-size="12" font-weight="700" fill="#1D5FA6">Days → minutes</text>
+<text x="34" y="160" font-size="12" font-weight="700" letter-spacing="0.96" fill="#4B5563">BUILT</text>
+<rect x="34.5" y="168.5" width="77" height="19" fill="#E7EFF8"/><text x="41" y="182" font-size="12" fill="#0E2841">Dashboards</text>
+<rect x="117.5" y="168.5" width="102" height="19" fill="#E7EFF8"/><text x="124.0" y="182" font-size="12" fill="#0E2841">Reconciliation</text>
+<rect x="34.5" y="192.5" width="121" height="19" fill="#E7EFF8"/><text x="41" y="206" font-size="12" fill="#0E2841">Exception reports</text>
+<rect x="161.6" y="192.5" width="90" height="19" fill="#E7EFF8"/><text x="168.1" y="206" font-size="12" fill="#0E2841">Self-service</text>
+<text x="34" y="234" font-size="12" font-weight="700" letter-spacing="0.96" fill="#1D5FA6">RESULT</text>
+<text x="34" y="252" font-size="12" font-weight="700" fill="#0E2841">Dozens of recurring dashboards;</text>
+<text x="34" y="268" font-size="12" font-weight="700" fill="#0E2841">designs adopted by other functions</text>
+<rect x="245.1" y="221.5" width="72" height="17" fill="#FFF" stroke="#1D5FA6"/><text x="251.6" y="234" font-size="11" font-weight="700" fill="#1D5FA6">Telemetry</text>
+<rect x="159.1" y="221.5" width="79" height="17" fill="#FFF" stroke="#1D5FA6"/><text x="165.6" y="234" font-size="11" font-weight="700" fill="#1D5FA6">Visibility</text>
+<rect x="348.5" y="12.5" width="311" height="275" fill="#FFF" stroke="#CDD3DA"/>
+<rect x="348" y="12" width="312" height="36" fill="#0E2841"/><text x="362" y="35" font-size="14" font-weight="700" fill="#FFF">Merger integration</text>
+<text x="362" y="68" font-size="12" font-style="italic" fill="#4B5563">Multiple mergers and a divestiture</text>
+<rect x="362" y="78" width="284" height="60" fill="#F4F6F9"/>
+<rect x="376" y="84" width="50" height="16" fill="#D2E1F2" stroke="#FFF"/>
+<rect x="376" y="110" width="50" height="16" fill="#B9CFE8" stroke="#FFF"/>
+<rect x="380" y="88" width="50" height="16" fill="#D2E1F2" stroke="#FFF"/>
+<rect x="380" y="114" width="50" height="16" fill="#B9CFE8" stroke="#FFF"/>
+<rect x="384" y="92" width="50" height="16" fill="#D2E1F2" stroke="#FFF"/>
+<rect x="384" y="118" width="50" height="16" fill="#B9CFE8" stroke="#FFF"/>
+<path d="M438,100 C472,100 472,110 502,110 M438,126 C472,126 472,110 502,110" stroke="#1D5FA6" stroke-width="1.5" fill="none"/>
+<rect x="504" y="86" width="54" height="10" fill="#0E2841"/>
+<rect x="504" y="98" width="54" height="10" fill="#0E2841"/>
+<rect x="504" y="110" width="54" height="10" fill="#0E2841"/>
+<rect x="504" y="122" width="54" height="10" fill="#0E2841"/>
+<text x="568" y="114" font-size="12" font-weight="700" fill="#1D5FA6">One lineage</text>
+<text x="362" y="160" font-size="12" font-weight="700" letter-spacing="0.96" fill="#4B5563">BUILT</text>
+<rect x="362.5" y="168.5" width="71" height="19" fill="#E7EFF8"/><text x="369" y="182" font-size="12" fill="#0E2841">Workflows</text>
+<rect x="439.2" y="168.5" width="71" height="19" fill="#E7EFF8"/><text x="445.7" y="182" font-size="12" fill="#0E2841">Novations</text>
+<rect x="515.9" y="168.5" width="102" height="19" fill="#E7EFF8"/><text x="522.4" y="182" font-size="12" fill="#0E2841">Entity changes</text>
+<rect x="362.5" y="192.5" width="77" height="19" fill="#E7EFF8"/><text x="369" y="206" font-size="12" fill="#0E2841">Migrations</text>
+<text x="362" y="234" font-size="12" font-weight="700" letter-spacing="0.96" fill="#1D5FA6">RESULT</text>
+<text x="362" y="252" font-size="12" font-weight="700" fill="#0E2841">Thousands of contracts and supplier</text>
+<text x="362" y="268" font-size="12" font-weight="700" fill="#0E2841">records coordinated across integrations</text>
+<rect x="573.1" y="221.5" width="72" height="17" fill="#FFF" stroke="#1D5FA6"/><text x="579.6" y="234" font-size="11" font-weight="700" fill="#1D5FA6">Lifecycle</text>
+<rect x="20.5" y="304.5" width="311" height="275" fill="#FFF" stroke="#CDD3DA"/>
+<rect x="20" y="304" width="312" height="36" fill="#0E2841"/><text x="34" y="327" font-size="14" font-weight="700" fill="#FFF">Workflow governance</text>
+<text x="34" y="360" font-size="12" font-style="italic" fill="#4B5563">Distributed support teams</text>
+<rect x="34" y="370" width="284" height="60" fill="#F4F6F9"/>
+<rect x="46" y="378" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="60" y="378" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="74" y="378" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="88" y="378" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="102" y="378" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="116" y="378" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="130" y="378" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="144" y="378" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="158" y="378" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="172" y="378" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="186" y="378" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="200" y="378" width="10" height="10" fill="#FFF" stroke="#4B5563"/>
+<rect x="214" y="378" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="228" y="378" width="10" height="10" fill="#FFF" stroke="#4B5563"/>
+<rect x="46" y="392" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="60" y="392" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="74" y="392" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="88" y="392" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="102" y="392" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="116" y="392" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="130" y="392" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="144" y="392" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="158" y="392" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="172" y="392" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="186" y="392" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="200" y="392" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="214" y="392" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="228" y="392" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="46" y="406" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="60" y="406" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="74" y="406" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="88" y="406" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="102" y="406" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="116" y="406" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="130" y="406" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="144" y="406" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="158" y="406" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="172" y="406" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="186" y="406" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="200" y="406" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<rect x="214" y="406" width="10" height="10" fill="#FFF" stroke="#4B5563"/>
+<rect x="228" y="406" width="10" height="10" fill="#0E2841" stroke="#0E2841"/>
+<text x="246" y="394" font-size="12" font-weight="700" fill="#1D5FA6">High</text><text x="246" y="410" font-size="12" font-weight="700" fill="#1D5FA6">closure</text>
+<text x="34" y="452" font-size="12" font-weight="700" letter-spacing="0.96" fill="#4B5563">BUILT</text>
+<rect x="34.5" y="460.5" width="71" height="19" fill="#E7EFF8"/><text x="41" y="474" font-size="12" fill="#0E2841">Ticketing</text>
+<rect x="111.19999999999999" y="460.5" width="77" height="19" fill="#E7EFF8"/><text x="117.69999999999999" y="474" font-size="12" fill="#0E2841">Escalation</text>
+<rect x="194.2" y="460.5" width="115" height="19" fill="#E7EFF8"/><text x="200.7" y="474" font-size="12" fill="#0E2841">Shared calendars</text>
+<rect x="34.5" y="484.5" width="77" height="19" fill="#E7EFF8"/><text x="41" y="498" font-size="12" fill="#0E2841">Procedures</text>
+<text x="34" y="526" font-size="12" font-weight="700" letter-spacing="0.96" fill="#1D5FA6">RESULT</text>
+<text x="34" y="544" font-size="12" font-weight="700" fill="#0E2841">Thousands of tickets a year;</text>
+<text x="34" y="560" font-size="12" font-weight="700" fill="#0E2841">hundreds of procedures documented</text>
+<rect x="238.5" y="513.5" width="79" height="17" fill="#FFF" stroke="#1D5FA6"/><text x="245.0" y="526" font-size="11" font-weight="700" fill="#1D5FA6">Continuity</text>
+<rect x="132.7" y="513.5" width="99" height="17" fill="#FFF" stroke="#1D5FA6"/><text x="139.2" y="526" font-size="11" font-weight="700" fill="#1D5FA6">Orchestration</text>
+<rect x="348.5" y="304.5" width="311" height="275" fill="#FFF" stroke="#CDD3DA"/>
+<rect x="348" y="304" width="312" height="36" fill="#0E2841"/><text x="362" y="327" font-size="14" font-weight="700" fill="#FFF">Automation and modernization</text>
+<text x="362" y="360" font-size="12" font-style="italic" fill="#4B5563">Repetitive work across functions</text>
+<rect x="362" y="370" width="284" height="60" fill="#F4F6F9"/>
+<text x="374" y="392" font-size="12" font-weight="700" fill="#4B5563">Manual</text><rect x="432" y="381" width="194" height="14" fill="#B9CFE8"/>
+<text x="374" y="416" font-size="12" font-weight="700" fill="#0E2841">Scripted</text><rect x="432" y="405" width="34" height="14" fill="#1D5FA6"/>
+<text x="474" y="416" font-size="12" font-weight="700" fill="#1D5FA6">Thousands of hours freed</text>
+<text x="362" y="452" font-size="12" font-weight="700" letter-spacing="0.96" fill="#4B5563">BUILT</text>
+<rect x="362.5" y="460.5" width="33" height="19" fill="#E7EFF8"/><text x="369" y="474" font-size="12" fill="#0E2841">VBA</text>
+<rect x="401.4" y="460.5" width="33" height="19" fill="#E7EFF8"/><text x="407.9" y="474" font-size="12" fill="#0E2841">ETL</text>
+<rect x="440.29999999999995" y="460.5" width="33" height="19" fill="#E7EFF8"/><text x="446.79999999999995" y="474" font-size="12" fill="#0E2841">RPA</text>
+<rect x="479.19999999999993" y="460.5" width="64" height="19" fill="#E7EFF8"/><text x="485.69999999999993" y="474" font-size="12" fill="#0E2841">Triggers</text>
+<rect x="549.5999999999999" y="460.5" width="96" height="19" fill="#E7EFF8"/><text x="556.0999999999999" y="474" font-size="12" fill="#0E2841">Normalization</text>
+<text x="362" y="526" font-size="12" font-weight="700" letter-spacing="0.96" fill="#1D5FA6">RESULT</text>
+<text x="362" y="544" font-size="12" font-weight="700" fill="#0E2841">Reusable frameworks replaced</text>
+<text x="362" y="560" font-size="12" font-weight="700" fill="#0E2841">fragmented manual processes</text>
+<rect x="566.5" y="513.5" width="79" height="17" fill="#FFF" stroke="#1D5FA6"/><text x="573.0" y="526" font-size="11" font-weight="700" fill="#1D5FA6">Automation</text>
+</g></svg>

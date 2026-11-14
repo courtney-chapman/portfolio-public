@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 192" width="100%" role="img" aria-labelledby="t d">
+  <title id="t">How the buying process matured</title>
+  <desc id="d">Four phases in sequence. Before, hard to trace: no formal procurement system; buying was informal and decentralized, and evidence was rebuilt by hand for audits. Control, trackable: the first procurement workflow brought standard requests and approvals, reporting, and audit traceability. Scale, faster: enterprise throughput with catalogs, receiving, reconciliation, and central reporting. Intelligence, smarter: AI decision support for research, sourcing, coding, negotiation prep, and documentation.</desc>
+
+  <rect width="680" height="192" fill="#FFFFFF"/>
+
+  <polygon points="28,12 175,12 189,44 175,76 28,76" fill="#D2E1F2"/>
+  <polygon points="185,12 332,12 346,44 332,76 185,76 199,44" fill="#B9CFE8"/>
+  <polygon points="342,12 489,12 503,44 489,76 342,76 356,44" fill="#1D5FA6"/>
+  <polygon points="499,12 646,12 660,44 646,76 499,76 513,44" fill="#0E2841"/>
+
+  <g font-family="Helvetica, Arial, sans-serif">
+    <g font-size="12" font-weight="700" letter-spacing="0.96">
+      <text x="44" y="37" fill="#4B5563">BEFORE</text>
+      <text x="213" y="37" fill="#1D5FA6">CONTROL</text>
+      <text x="370" y="37" fill="#D2E1F2">SCALE</text>
+      <text x="527" y="37" fill="#B9CFE8">INTELLIGENCE</text>
+    </g>
+    <g font-size="15" font-weight="700">
+      <text x="44" y="59" fill="#0E2841">Hard to trace</text>
+      <text x="213" y="59" fill="#0E2841">Trackable</text>
+      <text x="370" y="59" fill="#FFFFFF">Faster</text>
+      <text x="527" y="59" fill="#FFFFFF">Smarter</text>
+    </g>
+
+    <!-- What each phase was -->
+    <g font-size="13" font-weight="700" fill="#0E2841">
+      <text x="44" y="104">No formal</text><text x="44" y="120">procurement system</text>
+      <text x="213" y="104">First procurement</text><text x="213" y="120">workflow</text>
+      <text x="370" y="104">Enterprise</text><text x="370" y="120">throughput</text>
+      <text x="527" y="104">AI decision</text><text x="527" y="120">support</text>
+    </g>
+    <g font-size="12" fill="#4B5563">
+      <text x="44" y="144">Informal, decentralized</text><text x="44" y="160">buying. Evidence rebuilt</text><text x="44" y="176">by hand for audits.</text>
+      <text x="213" y="144">Standard requests and</text><text x="213" y="160">approvals, reporting,</text><text x="213" y="176">audit traceability.</text>
+      <text x="370" y="144">Catalogs, receiving,</text><text x="370" y="160">reconciliation, and</text><text x="370" y="176">central reporting.</text>
+      <text x="527" y="144">Research, sourcing,</text><text x="527" y="160">coding, negotiation</text><text x="527" y="176">prep, documentation.</text>
+    </g>
+  </g>
+</svg>
