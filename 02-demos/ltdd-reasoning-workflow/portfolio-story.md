@@ -3,6 +3,7 @@
 # Property Loss and Relief-of-Stewardship
 
 - **GitHub workflow:** [LTDD reasoning workflow and examples](README.md)
+- **Related plugin:** [Government Property LTDD Relief Letter Generator](https://github.com/courtney-chapman/tools-public/blob/main/plugins/government-property-ltdd-relief-letter-generator/skills/government-property-ltdd-relief-letter-generator/SKILL.md)
 - **Purpose:** Resolve ambiguity under uncertainty
 - **Workflow type:** Investigative
 

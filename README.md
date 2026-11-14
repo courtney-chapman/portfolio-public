@@ -42,6 +42,10 @@ The GitHub demonstrations include their existing instructions, prompt examples, 
 
 [Browse all demonstrations](02-demos/README.md) · [Shared workflow governance](02-demos/resources/WorkflowGovernance.md)
 
+## Tools and plugins
+
+Explore the [public Codex plugin collection](https://github.com/courtney-chapman/tools-public) for reusable tools related to this work. That repository holds the current plugin catalog and instructions.
+
 ## Visual artifacts and background
 
 - [How I Work slide deck](01-projects/How%20I%20Work.pdf): how I diagnose, connect, and build.
