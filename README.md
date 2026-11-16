@@ -4,7 +4,7 @@
 
 I turn complexity into clarity, and clarity into measurable outcomes. I design operating systems for work that crosses processes, tools, and people—especially where ownership is unclear, handoffs break down, and evidence matters.
 
-**Start here:** [Featured projects](#featured-projects) · [Demonstrations and examples](#demonstrations-and-examples) · [Operational topology](03-topology/README.md) · [Visual portfolio](https://courtneypetersonchapman.notion.site/)
+**Start here:** [Featured projects](#featured-projects) · [Demonstrations and examples](#demonstrations-and-examples) · [Tools & Plugins](https://github.com/courtney-chapman/tools-public) · [Operational topology](03-topology/README.md) · [Visual portfolio](https://courtneypetersonchapman.notion.site/)
 
 ![A path from complexity to clarity](01-projects/resources/assets/home/approach_complexity_clarity.svg)
 
@@ -44,13 +44,14 @@ The GitHub demonstrations include their existing instructions, prompt examples, 
 
 ## Tools and plugins
 
-Explore the [public Codex plugin collection](https://github.com/courtney-chapman/tools-public) for reusable tools related to this work. That repository holds the current plugin catalog and instructions.
+Explore [Tools & Plugins](https://github.com/courtney-chapman/tools-public) for browser apps that work offline and plugins for Codex and Claude Code. The repository includes app guides, plugin instructions, and releases for government property and procurement work.
 
 ## Visual artifacts and background
 
 - [How I Work slide deck](https://raw.githubusercontent.com/courtney-chapman/portfolio-public/main/01-projects/How%20I%20Work.pdf): how I diagnose, connect, and build.
 - [The Foundation](04-foundation/README.md): the recurring patterns behind this work.
 - [Visual portfolio on Notion](https://courtneypetersonchapman.notion.site/).
+- [GitHub profile](https://github.com/courtney-chapman): an overview of my public projects and tools.
 - [LinkedIn](https://www.linkedin.com/in/courtney-peterson-chapman/).
 
 The case briefs serve leaders and technical teams; illustrations and figures are generalized, and fictional scenarios are labeled.
