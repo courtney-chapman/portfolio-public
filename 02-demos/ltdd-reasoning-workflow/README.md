@@ -67,10 +67,10 @@ The GPT was built entirely from publicly available sources. No proprietary mater
 | Source | URL |
 | --- | --- |
 | FAR 52.245-1 - Government Property | [acquisition.gov/far/52.245-1](https://www.acquisition.gov/far/52.245-1) |
-| DFARS 252.245-7005 - Management and Reporting of Government Property | [acquisition.gov/dfars/252.245-7005-management-and-reporting-government-property](https://www.acquisition.gov/dfars/252.245-7005-management-and-reporting-government-property) |
-| PGI 245.1 - Government Property Procedures | [acquisition.gov/dfarspgi/pgi-245.1](https://www.acquisition.gov/dfarspgi/pgi-245.1) |
+| DFARS 252.245-7005 - Management and Reporting of Government Property | [Acquisition.gov clause text](https://www.acquisition.gov/dfars/252.245-7005-management-and-reporting-government-property.) |
+| PGI 245.1 - Government Property Procedures | [Acquisition.gov PGI 245.1](https://www.acquisition.gov/dfarspgi/pgi-245.1-general) |
 | PIEE GFP Module - Property Loss Training | [dodprocurementtoolbox.com](https://www.dodprocurementtoolbox.com) |
-| DFARS Case 2020-D029 - Clause Consolidation Overview | [acquisition.gov/dfars/252.245-7005-management-and-reporting-government-property](https://www.acquisition.gov/dfars/252.245-7005-management-and-reporting-government-property) |
+| DFARS Case 2020-D029 - Clause Consolidation Overview | [Federal Register final rule](https://www.govinfo.gov/content/pkg/FR-2023-12-22/html/2023-27939.htm) |
 
 ## Development Methodology
 
